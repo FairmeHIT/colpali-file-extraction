@@ -27,7 +27,6 @@
 ├── local_data/                  # 评测基准
 │   └── zh_corpus/benchmark_mineru/       # 中文 MinerU 基准 (506 查询/611 页)
 ├── outputs/                     # 评测结果
-├── reports/                     # 验收报告
 ├── env.sh / env_colqwen2.sh    # 环境配置
 └── run_*.sh                     # 一键评测脚本
 ```
