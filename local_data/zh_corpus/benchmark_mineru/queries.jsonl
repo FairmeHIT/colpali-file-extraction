@@ -1,0 +1,506 @@
+{"query_id": "zhm_000000", "query": "查找包含编号“中心编号：WT2019B01A04477”的中文文档页面。", "page_id": "COLD_CELL_600/10", "evidence": "中心编号：WT2019B01A04477", "source": "identifier"}
+{"query_id": "zhm_000001", "query": "查找包含联系电话“020-85511833”的中文文档页面。", "page_id": "COLD_CELL_600/1000", "evidence": "商家电话：020-85511833", "source": "phone"}
+{"query_id": "zhm_000002", "query": "查找包含金额“36元”的中文文档页面。", "page_id": "COLD_CELL_600/1010", "evidence": "2.现场等位超60分钟凭此单，每桌送指定花式饮料2杯（价值30-36元不等），送完为止！", "source": "money"}
+{"query_id": "zhm_000003", "query": "查找包含编号“合同编号：0000001”的中文文档页面。", "page_id": "COLD_CELL_600/1029", "evidence": "合同编号：0000001", "source": "identifier"}
+{"query_id": "zhm_000004", "query": "查找包含编号“卡号：6214757529 C”的中文文档页面。", "page_id": "COLD_CELL_600/1037", "evidence": "卡号：6214757529 C", "source": "identifier"}
+{"query_id": "zhm_000005", "query": "查找包含编号“特卡人签字：CARD HOLDER SIGNATURE”的中文文档页面。", "page_id": "COLD_CELL_600/1044", "evidence": "特卡人签字：CARD HOLDER SIGNATURE", "source": "identifier"}
+{"query_id": "zhm_000006", "query": "查找包含编号“凭证号：000010”的中文文档页面。", "page_id": "COLD_CELL_600/1053", "evidence": "凭证号：000010", "source": "identifier"}
+{"query_id": "zhm_000007", "query": "查找包含编号“卡号：6258582300”的中文文档页面。", "page_id": "COLD_CELL_600/1057", "evidence": "卡号：6258582300", "source": "identifier"}
+{"query_id": "zhm_000008", "query": "查找包含联系电话“012018070400”的中文文档页面。", "page_id": "COLD_CELL_600/1060", "evidence": "交易序号：01201807040005", "source": "phone"}
+{"query_id": "zhm_000009", "query": "查找包含日期“2015-11-05”的中文文档页面。", "page_id": "COLD_CELL_600/1062", "evidence": "结帐时间：2015-11-0517:24", "source": "date"}
+{"query_id": "zhm_000010", "query": "查找包含编号“6471199”的中文文档页面。", "page_id": "COLD_CELL_600/1063", "evidence": "卓号6471199台号030", "source": "identifier"}
+{"query_id": "zhm_000011", "query": "查找包含日期“2016-12-20”的中文文档页面。", "page_id": "COLD_CELL_600/1064", "evidence": "开始时间：2016-12-2021：00:28", "source": "date"}
+{"query_id": "zhm_000012", "query": "查找包含联系电话“021609090007”的中文文档页面。", "page_id": "COLD_CELL_600/1065", "evidence": "单号P0216090900073", "source": "phone"}
+{"query_id": "zhm_000013", "query": "查找包含日期“2017-02-14”的中文文档页面。", "page_id": "COLD_CELL_600/1067", "evidence": "日期：2017-02-14", "source": "date"}
+{"query_id": "zhm_000014", "query": "查找包含编号“时间：16-09-1720:56:33”的中文文档页面。", "page_id": "COLD_CELL_600/1068", "evidence": "时间：16-09-1720:56:33", "source": "identifier"}
+{"query_id": "zhm_000015", "query": "查找包含日期“2016-11-02”的中文文档页面。", "page_id": "COLD_CELL_600/1069", "evidence": "打印时间：2016-11-0220：22：58", "source": "date"}
+{"query_id": "zhm_000016", "query": "查找包含编号“人数：2时间：08-2012:21”的中文文档页面。", "page_id": "COLD_CELL_600/1070", "evidence": "人数：2时间：08-2012:21", "source": "identifier"}
+{"query_id": "zhm_000017", "query": "查找包含编号“开台：07-0116:56”的中文文档页面。", "page_id": "COLD_CELL_600/1071", "evidence": "开台：07-0116:56", "source": "identifier"}
+{"query_id": "zhm_000018", "query": "查找包含编号“地址：济南市市中区领秀城贵和金街1F-3-11”的中文文档页面。", "page_id": "COLD_CELL_600/1072", "evidence": "地址：济南市市中区领秀城贵和金街1F-3-11", "source": "identifier"}
+{"query_id": "zhm_000019", "query": "查找包含联系电话“16062200007”的中文文档页面。", "page_id": "COLD_CELL_600/1073", "evidence": "单号：B16062200007", "source": "phone"}
+{"query_id": "zhm_000020", "query": "查找包含编号“账单号：1000000614”的中文文档页面。", "page_id": "COLD_CELL_600/1074", "evidence": "账单号：1000000614", "source": "identifier"}
+{"query_id": "zhm_000021", "query": "查找包含日期“2012-05-22”的中文文档页面。", "page_id": "COLD_CELL_600/1075", "evidence": "开台时间：2012-05-2210:33:50", "source": "date"}
+{"query_id": "zhm_000022", "query": "查找包含编号“时间：02-1420:38”的中文文档页面。", "page_id": "COLD_CELL_600/1076", "evidence": "时间：02-1420:38", "source": "identifier"}
+{"query_id": "zhm_000023", "query": "查找包含编号“账单号：1000012777”的中文文档页面。", "page_id": "COLD_CELL_600/1077", "evidence": "账单号：1000012777", "source": "identifier"}
+{"query_id": "zhm_000024", "query": "查找包含编号“开始时间：201703-3111:4658”的中文文档页面。", "page_id": "COLD_CELL_600/1079", "evidence": "开始时间：201703-3111:4658", "source": "identifier"}
+{"query_id": "zhm_000025", "query": "查找包含联系电话“000200011805”的中文文档页面。", "page_id": "COLD_CELL_600/1081", "evidence": "结算NO：JS000200011805220141", "source": "phone"}
+{"query_id": "zhm_000026", "query": "查找包含编号“开台：08-1618:18”的中文文档页面。", "page_id": "COLD_CELL_600/1082", "evidence": "开台：08-1618:18", "source": "identifier"}
+{"query_id": "zhm_000027", "query": "查找包含编号“时间：04-1018:44”的中文文档页面。", "page_id": "COLD_CELL_600/1083", "evidence": "时间：04-1018:44", "source": "identifier"}
+{"query_id": "zhm_000028", "query": "查找包含日期“2015-10-04”的中文文档页面。", "page_id": "COLD_CELL_600/1084", "evidence": "开台时间：2015-10-0417:22:33", "source": "date"}
+{"query_id": "zhm_000029", "query": "查找包含编号“开台：05-2917:58”的中文文档页面。", "page_id": "COLD_CELL_600/1085", "evidence": "开台：05-2917:58", "source": "identifier"}
+{"query_id": "zhm_000030", "query": "查找标题或抬头包含“胡大砂锅火锅串串预打账单（1）”的中文文档页面。", "page_id": "COLD_CELL_600/1086", "evidence": "胡大砂锅火锅串串预打账单（1）", "source": "title"}
+{"query_id": "zhm_000031", "query": "查找包含日期“2014-09-25”的中文文档页面。", "page_id": "COLD_CELL_600/1087", "evidence": "结账时间：2014-09-2519:05", "source": "date"}
+{"query_id": "zhm_000032", "query": "查找包含编号“结账时间：2019-060419:08”的中文文档页面。", "page_id": "COLD_CELL_600/1089", "evidence": "结账时间：2019-060419:08", "source": "identifier"}
+{"query_id": "zhm_000033", "query": "查找包含编号“开单：04-2219:22:40”的中文文档页面。", "page_id": "COLD_CELL_600/1090", "evidence": "开单：04-2219:22:40", "source": "identifier"}
+{"query_id": "zhm_000034", "query": "查找包含联系电话“15073100028”的中文文档页面。", "page_id": "COLD_CELL_600/1091", "evidence": "单号：P15073100028", "source": "phone"}
+{"query_id": "zhm_000035", "query": "查找包含联系电话“010-64031690”的中文文档页面。", "page_id": "COLD_CELL_600/1092", "evidence": "首层，订餐电话：010-64031690", "source": "phone"}
+{"query_id": "zhm_000036", "query": "查找包含日期“2018-02-12”的中文文档页面。", "page_id": "COLD_CELL_600/1093", "evidence": "开牌时间：2018-02-1221:41", "source": "date"}
+{"query_id": "zhm_000037", "query": "查找包含日期“2015-02-16”的中文文档页面。", "page_id": "COLD_CELL_600/1094", "evidence": "打印时间：2015-02-1618:50：01", "source": "date"}
+{"query_id": "zhm_000038", "query": "查找包含编号“地址：济南市市中区领秀城贵和金街1F-311”的中文文档页面。", "page_id": "COLD_CELL_600/1096", "evidence": "地址：济南市市中区领秀城贵和金街1F-311", "source": "identifier"}
+{"query_id": "zhm_000039", "query": "查找包含编号“时间：030821:20”的中文文档页面。", "page_id": "COLD_CELL_600/1097", "evidence": "时间：030821:20", "source": "identifier"}
+{"query_id": "zhm_000040", "query": "查找包含联系电话“16041600106”的中文文档页面。", "page_id": "COLD_CELL_600/1098", "evidence": "单号：B16041600106收银员：002", "source": "phone"}
+{"query_id": "zhm_000041", "query": "查找包含编号“时间：11-2615:44”的中文文档页面。", "page_id": "COLD_CELL_600/1099", "evidence": "时间：11-2615:44", "source": "identifier"}
+{"query_id": "zhm_000042", "query": "查找包含日期“2017-01-07”的中文文档页面。", "page_id": "COLD_CELL_600/1100", "evidence": "开始时间：2017-01-0720:20：21", "source": "date"}
+{"query_id": "zhm_000043", "query": "查找包含联系电话“13681833228”的中文文档页面。", "page_id": "COLD_CELL_600/1101", "evidence": "电话：13681833228", "source": "phone"}
+{"query_id": "zhm_000044", "query": "查找包含日期“2016-12-04”的中文文档页面。", "page_id": "COLD_CELL_600/1103", "evidence": "打印时间：2016-12-041920 次数", "source": "date"}
+{"query_id": "zhm_000045", "query": "查找包含编号“账单号：P000031”的中文文档页面。", "page_id": "COLD_CELL_600/1104", "evidence": "账单号：P000031", "source": "identifier"}
+{"query_id": "zhm_000046", "query": "查找包含编号“时间：06-1620:24”的中文文档页面。", "page_id": "COLD_CELL_600/1105", "evidence": "时间：06-1620:24", "source": "identifier"}
+{"query_id": "zhm_000047", "query": "查找包含联系电话“006201906057”的中文文档页面。", "page_id": "COLD_CELL_600/1106", "evidence": "交易序号：006201906057076", "source": "phone"}
+{"query_id": "zhm_000048", "query": "查找包含日期“2016-09-11”的中文文档页面。", "page_id": "COLD_CELL_600/1107", "evidence": "结账时间：2016-09-1117:11", "source": "date"}
+{"query_id": "zhm_000049", "query": "查找包含日期“2017-07-09”的中文文档页面。", "page_id": "COLD_CELL_600/1110", "evidence": "时间：2017-07-09 22：55", "source": "date"}
+{"query_id": "zhm_000050", "query": "查找包含编号“时间：05-2812:37”的中文文档页面。", "page_id": "COLD_CELL_600/1111", "evidence": "时间：05-2812:37", "source": "identifier"}
+{"query_id": "zhm_000051", "query": "查找包含编号“时间：160304 17:53”的中文文档页面。", "page_id": "COLD_CELL_600/1112", "evidence": "时间：160304 17:53", "source": "identifier"}
+{"query_id": "zhm_000052", "query": "查找包含编号“印单：01冯秋润12-0513:20”的中文文档页面。", "page_id": "COLD_CELL_600/1113", "evidence": "印单：01冯秋润12-0513:20", "source": "identifier"}
+{"query_id": "zhm_000053", "query": "查找包含编号“时间：02-1812:08”的中文文档页面。", "page_id": "COLD_CELL_600/1114", "evidence": "时间：02-1812:08", "source": "identifier"}
+{"query_id": "zhm_000054", "query": "查找包含编号“时间：12-0613:00”的中文文档页面。", "page_id": "COLD_CELL_600/1115", "evidence": "时间：12-0613:00", "source": "identifier"}
+{"query_id": "zhm_000055", "query": "查找包含日期“2017-06-01”的中文文档页面。", "page_id": "COLD_CELL_600/1116", "evidence": "日期：2017-06-01", "source": "date"}
+{"query_id": "zhm_000056", "query": "查找包含日期“2016/7/31”的中文文档页面。", "page_id": "COLD_CELL_600/1117", "evidence": "开始时间：2016/7/3113:45:19", "source": "date"}
+{"query_id": "zhm_000057", "query": "查找包含编号“台卡号：201814122A台号：外卖1”的中文文档页面。", "page_id": "COLD_CELL_600/1119", "evidence": "台卡号：201814122A台号：外卖1", "source": "identifier"}
+{"query_id": "zhm_000058", "query": "查找包含联系电话“018022300473”的中文文档页面。", "page_id": "COLD_CELL_600/1120", "evidence": "号：22018022300473", "source": "phone"}
+{"query_id": "zhm_000059", "query": "查找包含编号“时间：10-0411:51人数”的中文文档页面。", "page_id": "COLD_CELL_600/1121", "evidence": "时间：10-0411:51人数", "source": "identifier"}
+{"query_id": "zhm_000060", "query": "查找包含联系电话“0180220022”的中文文档页面。", "page_id": "COLD_CELL_600/1122", "evidence": "编号：20180220022人数：2桌号：07", "source": "phone"}
+{"query_id": "zhm_000061", "query": "查找包含编号“厅：A区客位02-A02”的中文文档页面。", "page_id": "COLD_CELL_600/1123", "evidence": "厅：A区客位02-A02", "source": "identifier"}
+{"query_id": "zhm_000062", "query": "查找包含编号“时间：11-1513:09”的中文文档页面。", "page_id": "COLD_CELL_600/1124", "evidence": "时间：11-1513:09", "source": "identifier"}
+{"query_id": "zhm_000063", "query": "查找包含编号“WiFi密码：26656109”的中文文档页面。", "page_id": "COLD_CELL_600/1125", "evidence": "WiFi密码：26656109", "source": "identifier"}
+{"query_id": "zhm_000064", "query": "查找包含联系电话“0004-20180915”的中文文档页面。", "page_id": "COLD_CELL_600/1126", "evidence": "营业流水：0004-20180915-0160", "source": "phone"}
+{"query_id": "zhm_000065", "query": "查找包含编号“收报员：0000时间：10-2114:58”的中文文档页面。", "page_id": "COLD_CELL_600/1127", "evidence": "收报员：0000时间：10-2114:58", "source": "identifier"}
+{"query_id": "zhm_000066", "query": "查找包含编号“时间：16040917：1716040918：56”的中文文档页面。", "page_id": "COLD_CELL_600/1128", "evidence": "时间：16040917：1716040918：56", "source": "identifier"}
+{"query_id": "zhm_000067", "query": "查找包含日期“2018-03-11”的中文文档页面。", "page_id": "COLD_CELL_600/1129", "evidence": "结账时间：2018-03-1114:17", "source": "date"}
+{"query_id": "zhm_000068", "query": "查找包含编号“地址：济南市市中区领秀城贵和金街1F-3-115”的中文文档页面。", "page_id": "COLD_CELL_600/1130", "evidence": "地址：济南市市中区领秀城贵和金街1F-3-115", "source": "identifier"}
+{"query_id": "zhm_000069", "query": "查找包含日期“2017-05-25”的中文文档页面。", "page_id": "COLD_CELL_600/1131", "evidence": "打印时间：2017-05-2519:13:13", "source": "date"}
+{"query_id": "zhm_000070", "query": "查找包含日期“2015-01-21”的中文文档页面。", "page_id": "COLD_CELL_600/1132", "evidence": "日期：2015-01-2119:49 账单号：476", "source": "date"}
+{"query_id": "zhm_000071", "query": "查找标题或抬头包含“欢迎光临潮粥府（吴中店）”的中文文档页面。", "page_id": "COLD_CELL_600/1133", "evidence": "欢迎光临潮粥府（吴中店）", "source": "title"}
+{"query_id": "zhm_000072", "query": "查找包含编号“单号：B1608020005收银员：0000”的中文文档页面。", "page_id": "COLD_CELL_600/1134", "evidence": "单号：B1608020005收银员：0000", "source": "identifier"}
+{"query_id": "zhm_000073", "query": "查找包含日期“2016/11/61”的中文文档页面。", "page_id": "COLD_CELL_600/1135", "evidence": "开始时间：2016/11/611:22:44", "source": "date"}
+{"query_id": "zhm_000074", "query": "查找包含编号“时间：07-1317:43”的中文文档页面。", "page_id": "COLD_CELL_600/1136", "evidence": "时间：07-1317:43", "source": "identifier"}
+{"query_id": "zhm_000075", "query": "查找包含联系电话“011706050952”的中文文档页面。", "page_id": "COLD_CELL_600/1137", "evidence": "单号：888011706050952430002", "source": "phone"}
+{"query_id": "zhm_000076", "query": "查找包含日期“2021-03-13”的中文文档页面。", "page_id": "COLD_CELL_600/1138", "evidence": "打印时间：2021-03-13-10:18:08", "source": "date"}
+{"query_id": "zhm_000077", "query": "查找包含日期“2017-01-02”的中文文档页面。", "page_id": "COLD_CELL_600/1139", "evidence": "时间：2017-01-0217:31:35", "source": "date"}
+{"query_id": "zhm_000078", "query": "查找包含日期“2017-09-10”的中文文档页面。", "page_id": "COLD_CELL_600/1140", "evidence": "收银：胡庆珍时间：2017-09-1015:33", "source": "date"}
+{"query_id": "zhm_000079", "query": "查找包含联系电话“032016120952”的中文文档页面。", "page_id": "COLD_CELL_600/1141", "evidence": "水单流水：103201612095298", "source": "phone"}
+{"query_id": "zhm_000080", "query": "查找包含编号“电话：63420662”的中文文档页面。", "page_id": "COLD_CELL_600/1142", "evidence": "电话：63420662", "source": "identifier"}
+{"query_id": "zhm_000081", "query": "查找包含日期“2017-03-17”的中文文档页面。", "page_id": "COLD_CELL_600/1143", "evidence": "开始时间：2017-03-1721:49:06", "source": "date"}
+{"query_id": "zhm_000082", "query": "查找包含日期“2014-07-13”的中文文档页面。", "page_id": "COLD_CELL_600/1144", "evidence": "日期：2014-07-1311:52", "source": "date"}
+{"query_id": "zhm_000083", "query": "查找包含编号“开单：13:11:45单号：1709130086班次：午市”的中文文档页面。", "page_id": "COLD_CELL_600/1145", "evidence": "开单：13:11:45单号：1709130086班次：午市", "source": "identifier"}
+{"query_id": "zhm_000084", "query": "查找包含编号“开台时间10-0316:36”的中文文档页面。", "page_id": "COLD_CELL_600/1149", "evidence": "开台时间10-0316:36", "source": "identifier"}
+{"query_id": "zhm_000085", "query": "查找包含联系电话“010-85623558”的中文文档页面。", "page_id": "COLD_CELL_600/1150", "evidence": "订座电话：010-85623558/85623559", "source": "phone"}
+{"query_id": "zhm_000086", "query": "查找包含日期“2016-06-24”的中文文档页面。", "page_id": "COLD_CELL_600/1151", "evidence": "开始时间：2016-06-2412:17:25", "source": "date"}
+{"query_id": "zhm_000087", "query": "查找包含编号“格式号：W1/ykcWol-01-R04”的中文文档页面。", "page_id": "COLD_CELL_600/1152", "evidence": "格式号：W1/ykcWol-01-R04", "source": "identifier"}
+{"query_id": "zhm_000088", "query": "查找包含编号“时间：03-2621:42”的中文文档页面。", "page_id": "COLD_CELL_600/1153", "evidence": "时间：03-2621:42", "source": "identifier"}
+{"query_id": "zhm_000089", "query": "查找包含日期“2017-07-23”的中文文档页面。", "page_id": "COLD_CELL_600/1154", "evidence": "结账日期：2017-07-2318:24", "source": "date"}
+{"query_id": "zhm_000090", "query": "查找包含联系电话“15061500082”的中文文档页面。", "page_id": "COLD_CELL_600/1155", "evidence": "单号：P15061500082", "source": "phone"}
+{"query_id": "zhm_000091", "query": "查找包含编号“单号：20170709-0041”的中文文档页面。", "page_id": "COLD_CELL_600/1156", "evidence": "单号：20170709-0041", "source": "identifier"}
+{"query_id": "zhm_000092", "query": "查找包含编号“班：1开台：欧淑仪16-01-0319:55”的中文文档页面。", "page_id": "COLD_CELL_600/1157", "evidence": "班：1开台：欧淑仪16-01-0319:55", "source": "identifier"}
+{"query_id": "zhm_000093", "query": "查找包含编号“N60119393”的中文文档页面。", "page_id": "COLD_CELL_600/1158", "evidence": "结算单N60119393", "source": "identifier"}
+{"query_id": "zhm_000094", "query": "查找包含编号“开台时间：04-1912:43”的中文文档页面。", "page_id": "COLD_CELL_600/1159", "evidence": "开台时间：04-1912:43", "source": "identifier"}
+{"query_id": "zhm_000095", "query": "查找包含编号“时间：06-1312:51”的中文文档页面。", "page_id": "COLD_CELL_600/1160", "evidence": "时间：06-1312:51", "source": "identifier"}
+{"query_id": "zhm_000096", "query": "查找包含编号“收银员：60306-李扬”的中文文档页面。", "page_id": "COLD_CELL_600/1162", "evidence": "收银员：60306-李扬", "source": "identifier"}
+{"query_id": "zhm_000097", "query": "查找包含日期“2018-02-24”的中文文档页面。", "page_id": "COLD_CELL_600/1164", "evidence": "付款时间：2018-02-24", "source": "date"}
+{"query_id": "zhm_000098", "query": "查找包含联系电话“000300011703”的中文文档页面。", "page_id": "COLD_CELL_600/1165", "evidence": "结算NO： JS000300011703030010", "source": "phone"}
+{"query_id": "zhm_000099", "query": "查找包含编号“印单：10吴依洁09-0220:35”的中文文档页面。", "page_id": "COLD_CELL_600/1168", "evidence": "印单：10吴依洁09-0220:35", "source": "identifier"}
+{"query_id": "zhm_000100", "query": "查找包含编号“开台：07-2912:27”的中文文档页面。", "page_id": "COLD_CELL_600/1169", "evidence": "开台：07-2912:27", "source": "identifier"}
+{"query_id": "zhm_000101", "query": "查找包含联系电话“0160311044”的中文文档页面。", "page_id": "COLD_CELL_600/1170", "evidence": "账单号：20160311044（2人）", "source": "phone"}
+{"query_id": "zhm_000102", "query": "查找包含编号“时间：16030820:27 餐桌：03”的中文文档页面。", "page_id": "COLD_CELL_600/1171", "evidence": "时间：16030820:27 餐桌：03", "source": "identifier"}
+{"query_id": "zhm_000103", "query": "查找包含编号“时间：08-2712:58”的中文文档页面。", "page_id": "COLD_CELL_600/1172", "evidence": "时间：08-2712:58", "source": "identifier"}
+{"query_id": "zhm_000104", "query": "查找包含编号“开台：12-3011:46结账：12-3011:47”的中文文档页面。", "page_id": "COLD_CELL_600/1174", "evidence": "开台：12-3011:46结账：12-3011:47", "source": "identifier"}
+{"query_id": "zhm_000105", "query": "查找标题或抬头包含“北京市海淀区莲花池东路31号”的中文文档页面。", "page_id": "COLD_CELL_600/1175", "evidence": "北京市海淀区莲花池东路31号", "source": "title"}
+{"query_id": "zhm_000106", "query": "查找包含编号“单号：B12112000005”的中文文档页面。", "page_id": "COLD_CELL_600/1176", "evidence": "单号：B12112000005", "source": "identifier"}
+{"query_id": "zhm_000107", "query": "查找包含日期“2017-06-15”的中文文档页面。", "page_id": "COLD_CELL_600/1177", "evidence": "交易时间：2017-06-1509:00:52", "source": "date"}
+{"query_id": "zhm_000108", "query": "查找包含编号“时间：022212:48-022212:49”的中文文档页面。", "page_id": "COLD_CELL_600/1180", "evidence": "时间：022212:48-022212:49", "source": "identifier"}
+{"query_id": "zhm_000109", "query": "查找包含编号“SHEKOU”的中文文档页面。", "page_id": "COLD_CELL_600/1192", "evidence": "蛇口港客运站船票 SHEKOU PORT PASSENGER FERRY TERMINAL SERVICE TICKET", "source": "identifier"}
+{"query_id": "zhm_000110", "query": "查找包含日期“2013-05-18”的中文文档页面。", "page_id": "COLD_CELL_600/1194", "evidence": "出票时间：2013-05-1810:19", "source": "date"}
+{"query_id": "zhm_000111", "query": "查找包含编号“报告编号：201410342”的中文文档页面。", "page_id": "COLD_CELL_600/1224", "evidence": "报告编号：201410342", "source": "identifier"}
+{"query_id": "zhm_000112", "query": "查找包含编号“报告ID:81087775”的中文文档页面。", "page_id": "COLD_CELL_600/1225", "evidence": "报告ID:81087775", "source": "identifier"}
+{"query_id": "zhm_000113", "query": "查找包含编号“报告编号：YZ20190159”的中文文档页面。", "page_id": "COLD_CELL_600/1227", "evidence": "报告编号：YZ20190159", "source": "identifier"}
+{"query_id": "zhm_000114", "query": "查找包含编号“报告书编号： 2012S0225”的中文文档页面。", "page_id": "COLD_CELL_600/1229", "evidence": "报告书编号： 2012S0225", "source": "identifier"}
+{"query_id": "zhm_000115", "query": "查找标题或抬头包含“农业部食品质量监督检验测试中心（上海）”的中文文档页面。", "page_id": "COLD_CELL_600/1231", "evidence": "农业部食品质量监督检验测试中心（上海）", "source": "title"}
+{"query_id": "zhm_000116", "query": "查找包含编号“传真：（0532）80885605”的中文文档页面。", "page_id": "COLD_CELL_600/1235", "evidence": "传真：（0532）80885605", "source": "identifier"}
+{"query_id": "zhm_000117", "query": "查找包含编号“样本号：EGFR2018082901”的中文文档页面。", "page_id": "COLD_CELL_600/1236", "evidence": "样本号：EGFR2018082901", "source": "identifier"}
+{"query_id": "zhm_000118", "query": "查找标题或抬头包含“公安部天津消防研究所检测中心试验报告”的中文文档页面。", "page_id": "COLD_CELL_600/1237", "evidence": "公安部天津消防研究所检测中心试验报告", "source": "title"}
+{"query_id": "zhm_000119", "query": "查找包含编号“报告书编号：JJ1402042”的中文文档页面。", "page_id": "COLD_CELL_600/1239", "evidence": "报告书编号：JJ1402042", "source": "identifier"}
+{"query_id": "zhm_000120", "query": "查找包含联系电话“021-24081666”的中文文档页面。", "page_id": "COLD_CELL_600/1240", "evidence": "086-021-240816669313email:Rain.ye@cn.bureauveritas.com", "source": "phone"}
+{"query_id": "zhm_000121", "query": "查找包含编号“编号：C14-000658”的中文文档页面。", "page_id": "COLD_CELL_600/1241", "evidence": "编号：C14-000658", "source": "identifier"}
+{"query_id": "zhm_000122", "query": "查找包含编号“报告编号：BG-2016-HL-013”的中文文档页面。", "page_id": "COLD_CELL_600/1242", "evidence": "报告编号：BG-2016-HL-013", "source": "identifier"}
+{"query_id": "zhm_000123", "query": "查找包含编号“中心编号：WT2019B01A00368”的中文文档页面。", "page_id": "COLD_CELL_600/1243", "evidence": "中心编号：WT2019B01A00368", "source": "identifier"}
+{"query_id": "zhm_000124", "query": "查找包含编号“报告编号：2014ZX190”的中文文档页面。", "page_id": "COLD_CELL_600/1244", "evidence": "报告编号：2014ZX190", "source": "identifier"}
+{"query_id": "zhm_000125", "query": "查找标题或抬头包含“国家食品质量监督检验中心”的中文文档页面。", "page_id": "COLD_CELL_600/1245", "evidence": "国家食品质量监督检验中心", "source": "title"}
+{"query_id": "zhm_000126", "query": "查找包含编号“表号：QR-CX049-01A/Ed.9.1”的中文文档页面。", "page_id": "COLD_CELL_600/1249", "evidence": "表号：QR-CX049-01A/Ed.9.1", "source": "identifier"}
+{"query_id": "zhm_000127", "query": "查找标题或抬头包含“样品编辽食（2003）第0325号”的中文文档页面。", "page_id": "COLD_CELL_600/1252", "evidence": "样品编辽食（2003）第0325号", "source": "title"}
+{"query_id": "zhm_000128", "query": "查找包含编号“报告编号：B2016030204”的中文文档页面。", "page_id": "COLD_CELL_600/1254", "evidence": "报告编号：B2016030204", "source": "identifier"}
+{"query_id": "zhm_000129", "query": "查找包含编号“JB10-04”的中文文档页面。", "page_id": "COLD_CELL_600/1255", "evidence": "型钢试验检测报告（JB10-04）", "source": "identifier"}
+{"query_id": "zhm_000130", "query": "查找包含编号“报告编号：20200344（抽验）”的中文文档页面。", "page_id": "COLD_CELL_600/1257", "evidence": "报告编号：20200344（抽验）", "source": "identifier"}
+{"query_id": "zhm_000131", "query": "查找标题或抬头包含“河南省产品质量监督检验院”的中文文档页面。", "page_id": "COLD_CELL_600/1260", "evidence": "河南省产品质量监督检验院", "source": "title"}
+{"query_id": "zhm_000132", "query": "查找包含编号“编号：（软膏字）20143193”的中文文档页面。", "page_id": "COLD_CELL_600/1262", "evidence": "编号：（软膏字）20143193", "source": "identifier"}
+{"query_id": "zhm_000133", "query": "查找包含编号“2008005”的中文文档页面。", "page_id": "COLD_CELL_600/1267", "evidence": "批准件编号2008005", "source": "identifier"}
+{"query_id": "zhm_000134", "query": "查找包含编号“表格编号：WI-05-006”的中文文档页面。", "page_id": "COLD_CELL_600/1269", "evidence": "表格编号：WI-05-006", "source": "identifier"}
+{"query_id": "zhm_000135", "query": "查找包含编号“时间：201409-2308:56:14”的中文文档页面。", "page_id": "COLD_CELL_600/1273", "evidence": "时间：201409-2308:56:14", "source": "identifier"}
+{"query_id": "zhm_000136", "query": "查找包含编号“贵宾卡NO:001566”的中文文档页面。", "page_id": "COLD_CELL_600/1274", "evidence": "贵宾卡NO:001566", "source": "identifier"}
+{"query_id": "zhm_000137", "query": "查找标题或抬头包含“合计： ￥3,744.00”的中文文档页面。", "page_id": "COLD_CELL_600/1277", "evidence": "合计： ￥3,744.00", "source": "title"}
+{"query_id": "zhm_000138", "query": "查找包含日期“2021.1.20”的中文文档页面。", "page_id": "COLD_CELL_600/1278", "evidence": "ARRIVALDATE 到店日期2021.1.20", "source": "date"}
+{"query_id": "zhm_000139", "query": "查找包含编号“BILLING”的中文文档页面。", "page_id": "COLD_CELL_600/1283", "evidence": "账单/BILLING", "source": "identifier"}
+{"query_id": "zhm_000140", "query": "查找包含日期“2016-10-31”的中文文档页面。", "page_id": "COLD_CELL_600/1284", "evidence": "入住日期：2016-10-31", "source": "date"}
+{"query_id": "zhm_000141", "query": "查找包含日期“2014年09月1”的中文文档页面。", "page_id": "COLD_CELL_600/129", "evidence": "时间2014年09月1谐", "source": "date"}
+{"query_id": "zhm_000142", "query": "查找包含编号“备案号码：4414000048”的中文文档页面。", "page_id": "COLD_CELL_600/1302", "evidence": "备案号码：4414000048", "source": "identifier"}
+{"query_id": "zhm_000143", "query": "查找包含编号“备案类别：Q自理报检企业C代理报检企业C快件运营企业备案号：4200210152”的中文文档页面。", "page_id": "COLD_CELL_600/1303", "evidence": "备案类别：Q自理报检企业C代理报检企业C快件运营企业备案号：4200210152", "source": "identifier"}
+{"query_id": "zhm_000144", "query": "查找包含编号“备案号码：4200609389”的中文文档页面。", "page_id": "COLD_CELL_600/1304", "evidence": "备案号码：4200609389", "source": "identifier"}
+{"query_id": "zhm_000145", "query": "查找包含编号“备案类别：回自理报检企业口代理报检企业口快件运营企业备案号码：4100210038”的中文文档页面。", "page_id": "COLD_CELL_600/1306", "evidence": "备案类别：回自理报检企业口代理报检企业口快件运营企业备案号码：4100210038", "source": "identifier"}
+{"query_id": "zhm_000146", "query": "查找包含编号“备案号码：4210600021”的中文文档页面。", "page_id": "COLD_CELL_600/1307", "evidence": "备案号码：4210600021", "source": "identifier"}
+{"query_id": "zhm_000147", "query": "查找包含编号“备案号码：3714601447”的中文文档页面。", "page_id": "COLD_CELL_600/1309", "evidence": "备案号码：3714601447", "source": "identifier"}
+{"query_id": "zhm_000148", "query": "查找包含编号“备案号码：1200621363”的中文文档页面。", "page_id": "COLD_CELL_600/1310", "evidence": "备案号码：1200621363", "source": "identifier"}
+{"query_id": "zhm_000149", "query": "查找包含编号“备案号码：3701624837”的中文文档页面。", "page_id": "COLD_CELL_600/1313", "evidence": "备案号码：3701624837", "source": "identifier"}
+{"query_id": "zhm_000150", "query": "查找包含编号“备案号码：3333613654”的中文文档页面。", "page_id": "COLD_CELL_600/1314", "evidence": "备案号码：3333613654", "source": "identifier"}
+{"query_id": "zhm_000151", "query": "查找包含联系电话“14000000613”的中文文档页面。", "page_id": "COLD_CELL_600/1315", "evidence": "国家食品药品监督管局 化妆品许可专用章 140000006130", "source": "phone"}
+{"query_id": "zhm_000152", "query": "查找包含编号“备案号码：5109602402”的中文文档页面。", "page_id": "COLD_CELL_600/1317", "evidence": "备案号码：5109602402", "source": "identifier"}
+{"query_id": "zhm_000153", "query": "查找包含联系电话“0201-20190426”的中文文档页面。", "page_id": "COLD_CELL_600/1318", "evidence": "流水号：JCPB-44188103-0201-20190426-00002", "source": "phone"}
+{"query_id": "zhm_000154", "query": "查找包含日期“2015年0月1”的中文文档页面。", "page_id": "COLD_CELL_600/132", "evidence": "时2015年0月1 田音", "source": "date"}
+{"query_id": "zhm_000155", "query": "查找包含联系电话“0102-20190428”的中文文档页面。", "page_id": "COLD_CELL_600/1320", "evidence": "流水号：JCPB-446604-0102-20190428-00678", "source": "phone"}
+{"query_id": "zhm_000156", "query": "查找标题或抬头包含“出1本证书一式两联，第一联动物卫生监督所留存，第二联随货同行”的中文文档页面。", "page_id": "COLD_CELL_600/1321", "evidence": "出1本证书一式两联，第一联动物卫生监督所留存，第二联随货同行", "source": "title"}
+{"query_id": "zhm_000157", "query": "查找包含联系电话“0102-20191008”的中文文档页面。", "page_id": "COLD_CELL_600/1322", "evidence": "流水号：JCPB-446604-0102-20191008", "source": "phone"}
+{"query_id": "zhm_000158", "query": "查找包含联系电话“0201-20190427”的中文文档页面。", "page_id": "COLD_CELL_600/1323", "evidence": "流水号：JCPB-44188103-0201-20190427-00037", "source": "phone"}
+{"query_id": "zhm_000159", "query": "查找标题或抬头包含“湖北省武汉市江复区 动物批发专”的中文文档页面。", "page_id": "COLD_CELL_600/1325", "evidence": "湖北省武汉市江复区 动物批发专", "source": "title"}
+{"query_id": "zhm_000160", "query": "查找包含联系电话“0102-20180415”的中文文档页面。", "page_id": "COLD_CELL_600/1326", "evidence": "流水号：JCPB-446604-0102-20180415-00212", "source": "phone"}
+{"query_id": "zhm_000161", "query": "查找标题或抬头包含“楚市动物卫生监督所 检安 用章”的中文文档页面。", "page_id": "COLD_CELL_600/1327", "evidence": "楚市动物卫生监督所 检安 用章", "source": "title"}
+{"query_id": "zhm_000162", "query": "查找包含联系电话“0201-20190328”的中文文档页面。", "page_id": "COLD_CELL_600/1328", "evidence": "流水号：ICPB-44188103-0201-20190328-00008", "source": "phone"}
+{"query_id": "zhm_000163", "query": "查找包含联系电话“13841059222”的中文文档页面。", "page_id": "COLD_CELL_600/1329", "evidence": "2.动物卫生监督所联系电话：13841059222", "source": "phone"}
+{"query_id": "zhm_000164", "query": "查找包含编号“6621186”的中文文档页面。", "page_id": "COLD_CELL_600/1330", "evidence": "N.44丝6621186", "source": "identifier"}
+{"query_id": "zhm_000165", "query": "查找包含文本“注：1.本证书一式两联，第一联动物卫生监督所留存，第二联随货同行。2.本证书限省境内使用”的中文文档页面。", "page_id": "COLD_CELL_600/1332", "evidence": "注：1.本证书一式两联，第一联动物卫生监督所留存，第二联随货同行。2.本证书限省境内使用", "source": "text"}
+{"query_id": "zhm_000166", "query": "查找包含联系电话“0102-20180408”的中文文档页面。", "page_id": "COLD_CELL_600/1333", "evidence": "流水号： JCPB-446604-0102-20180408-00212", "source": "phone"}
+{"query_id": "zhm_000167", "query": "查找包含联系电话“0102-20191027”的中文文档页面。", "page_id": "COLD_CELL_600/1334", "evidence": "流水号：JCPB-446604-0102-20191027-00006 农", "source": "phone"}
+{"query_id": "zhm_000168", "query": "查找包含文本“注：1.本证书一式两联，第一联由动物卫生监督所留存，第二联随货同行。2.本证书限省境内使用”的中文文档页面。", "page_id": "COLD_CELL_600/1335", "evidence": "注：1.本证书一式两联，第一联由动物卫生监督所留存，第二联随货同行。2.本证书限省境内使用", "source": "text"}
+{"query_id": "zhm_000169", "query": "查找包含联系电话“0501606320”的中文文档页面。", "page_id": "COLD_CELL_600/1339", "evidence": "萧田市国业资源评估中心 90501606320", "source": "phone"}
+{"query_id": "zhm_000170", "query": "查找标题或抬头包含“莆田市国工资源评估中心 年”的中文文档页面。", "page_id": "COLD_CELL_600/1340", "evidence": "莆田市国工资源评估中心 年", "source": "title"}
+{"query_id": "zhm_000171", "query": "查找标题或抬头包含“物国社资源评估中心 35030”的中文文档页面。", "page_id": "COLD_CELL_600/1341", "evidence": "物国社资源评估中心 35030", "source": "title"}
+{"query_id": "zhm_000172", "query": "查找包含联系电话“07020152620”的中文文档页面。", "page_id": "COLD_CELL_600/1342", "evidence": "镇七地能投西产值价有限公司 507020152620", "source": "phone"}
+{"query_id": "zhm_000173", "query": "查找包含编号“350132002”的中文文档页面。", "page_id": "COLD_CELL_600/1343", "evidence": "编州九典房地产信有限公司 350132002", "source": "identifier"}
+{"query_id": "zhm_000174", "query": "查找标题或抬头包含“浦出泰国武资养保育中动 180”的中文文档页面。", "page_id": "COLD_CELL_600/1347", "evidence": "浦出泰国武资养保育中动 180", "source": "title"}
+{"query_id": "zhm_000175", "query": "查找标题或抬头包含“编号：（2020）037号”的中文文档页面。", "page_id": "COLD_CELL_600/1350", "evidence": "编号：（2020）037号", "source": "title"}
+{"query_id": "zhm_000176", "query": "查找标题或抬头包含“编号：（2021）022号”的中文文档页面。", "page_id": "COLD_CELL_600/1352", "evidence": "编号：（2021）022号", "source": "title"}
+{"query_id": "zhm_000177", "query": "查找标题或抬头包含“黑龙江银监局行政处罚信息公开表”的中文文档页面。", "page_id": "COLD_CELL_600/1355", "evidence": "黑龙江银监局行政处罚信息公开表", "source": "title"}
+{"query_id": "zhm_000178", "query": "查找标题或抬头包含“填报单位：商水县食品药品监督管理局”的中文文档页面。", "page_id": "COLD_CELL_600/1359", "evidence": "填报单位：商水县食品药品监督管理局", "source": "title"}
+{"query_id": "zhm_000179", "query": "查找包含日期“2019年12月01日”的中文文档页面。", "page_id": "COLD_CELL_600/136", "evidence": "收缴期限：2019年12月01日至2019年12月31日", "source": "date"}
+{"query_id": "zhm_000180", "query": "查找标题或抬头包含“编号：（2021）023号”的中文文档页面。", "page_id": "COLD_CELL_600/1361", "evidence": "编号：（2021）023号", "source": "title"}
+{"query_id": "zhm_000181", "query": "查找标题或抬头包含“主题词：食品药品行政处罚”的中文文档页面。", "page_id": "COLD_CELL_600/1363", "evidence": "主题词：食品药品行政处罚", "source": "title"}
+{"query_id": "zhm_000182", "query": "查找标题或抬头包含“编号：（2018）014号”的中文文档页面。", "page_id": "COLD_CELL_600/1367", "evidence": "编号：（2018）014号", "source": "title"}
+{"query_id": "zhm_000183", "query": "查找标题或抬头包含“报送单位：食品药品执法大队”的中文文档页面。", "page_id": "COLD_CELL_600/1372", "evidence": "报送单位：食品药品执法大队", "source": "title"}
+{"query_id": "zhm_000184", "query": "查找标题或抬头包含“宁波银保监局行政处罚信息公开表”的中文文档页面。", "page_id": "COLD_CELL_600/1373", "evidence": "宁波银保监局行政处罚信息公开表", "source": "title"}
+{"query_id": "zhm_000185", "query": "查找标题或抬头包含“编号：（2020）023号”的中文文档页面。", "page_id": "COLD_CELL_600/1374", "evidence": "编号：（2020）023号", "source": "title"}
+{"query_id": "zhm_000186", "query": "查找标题或抬头包含“编号：（2020）042号”的中文文档页面。", "page_id": "COLD_CELL_600/1375", "evidence": "编号：（2020）042号", "source": "title"}
+{"query_id": "zhm_000187", "query": "查找标题或抬头包含“编号：（2018）023号”的中文文档页面。", "page_id": "COLD_CELL_600/1376", "evidence": "编号：（2018）023号", "source": "title"}
+{"query_id": "zhm_000188", "query": "查找标题或抬头包含“编号：（2018）039号”的中文文档页面。", "page_id": "COLD_CELL_600/1380", "evidence": "编号：（2018）039号", "source": "title"}
+{"query_id": "zhm_000189", "query": "查找标题或抬头包含“编号：（2018）018号”的中文文档页面。", "page_id": "COLD_CELL_600/1381", "evidence": "编号：（2018）018号", "source": "title"}
+{"query_id": "zhm_000190", "query": "查找标题或抬头包含“编号：（2020）026号”的中文文档页面。", "page_id": "COLD_CELL_600/1384", "evidence": "编号：（2020）026号", "source": "title"}
+{"query_id": "zhm_000191", "query": "查找标题或抬头包含“编号：（2021）011号”的中文文档页面。", "page_id": "COLD_CELL_600/1385", "evidence": "编号：（2021）011号", "source": "title"}
+{"query_id": "zhm_000192", "query": "查找标题或抬头包含“编号：（2018）031号”的中文文档页面。", "page_id": "COLD_CELL_600/1386", "evidence": "编号：（2018）031号", "source": "title"}
+{"query_id": "zhm_000193", "query": "查找包含日期“2020年8月4日”的中文文档页面。", "page_id": "COLD_CELL_600/139", "evidence": "请于2020年8月4日前办理交款手续，我公司将凭交费凭证，向您出具正式保单和发票", "source": "date"}
+{"query_id": "zhm_000194", "query": "查找标题或抬头包含“编号：（2018）049号”的中文文档页面。", "page_id": "COLD_CELL_600/1392", "evidence": "编号：（2018）049号", "source": "title"}
+{"query_id": "zhm_000195", "query": "查找标题或抬头包含“编号：（2021）031号”的中文文档页面。", "page_id": "COLD_CELL_600/1395", "evidence": "编号：（2021）031号", "source": "title"}
+{"query_id": "zhm_000196", "query": "查找标题或抬头包含“编号：（2021)027号”的中文文档页面。", "page_id": "COLD_CELL_600/1398", "evidence": "编号：（2021)027号", "source": "title"}
+{"query_id": "zhm_000197", "query": "查找标题或抬头包含“编号：（2019）025号”的中文文档页面。", "page_id": "COLD_CELL_600/1400", "evidence": "编号：（2019）025号", "source": "title"}
+{"query_id": "zhm_000198", "query": "查找标题或抬头包含“编号：（2019）030号”的中文文档页面。", "page_id": "COLD_CELL_600/1401", "evidence": "编号：（2019）030号", "source": "title"}
+{"query_id": "zhm_000199", "query": "查找标题或抬头包含“编号：（2019）089号”的中文文档页面。", "page_id": "COLD_CELL_600/1402", "evidence": "编号：（2019）089号", "source": "title"}
+{"query_id": "zhm_000200", "query": "查找包含联系电话“09211000584”的中文文档页面。", "page_id": "COLD_CELL_600/1404", "evidence": "容基动物卫生监督质 4509211000584", "source": "phone"}
+{"query_id": "zhm_000201", "query": "查找标题或抬头包含“编号：（2018）043号”的中文文档页面。", "page_id": "COLD_CELL_600/1406", "evidence": "编号：（2018）043号", "source": "title"}
+{"query_id": "zhm_000202", "query": "查找标题或抬头包含“（交通银行股份有限公司）”的中文文档页面。", "page_id": "COLD_CELL_600/1408", "evidence": "（交通银行股份有限公司）", "source": "title"}
+{"query_id": "zhm_000203", "query": "查找标题或抬头包含“编号：（2019）082号”的中文文档页面。", "page_id": "COLD_CELL_600/1411", "evidence": "编号：（2019）082号", "source": "title"}
+{"query_id": "zhm_000204", "query": "查找标题或抬头包含“编号：（2021）043号”的中文文档页面。", "page_id": "COLD_CELL_600/1413", "evidence": "编号：（2021）043号", "source": "title"}
+{"query_id": "zhm_000205", "query": "查找标题或抬头包含“编号：（2021）001号”的中文文档页面。", "page_id": "COLD_CELL_600/1414", "evidence": "编号：（2021）001号", "source": "title"}
+{"query_id": "zhm_000206", "query": "查找标题或抬头包含“江苏银保监局行政处罚信息公开表”的中文文档页面。", "page_id": "COLD_CELL_600/1415", "evidence": "江苏银保监局行政处罚信息公开表", "source": "title"}
+{"query_id": "zhm_000207", "query": "查找标题或抬头包含“编号：（2019）047号”的中文文档页面。", "page_id": "COLD_CELL_600/1418", "evidence": "编号：（2019）047号", "source": "title"}
+{"query_id": "zhm_000208", "query": "查找标题或抬头包含“编号：（2019）016号”的中文文档页面。", "page_id": "COLD_CELL_600/1420", "evidence": "编号：（2019）016号", "source": "title"}
+{"query_id": "zhm_000209", "query": "查找标题或抬头包含“编号：（2018）010号”的中文文档页面。", "page_id": "COLD_CELL_600/1422", "evidence": "编号：（2018）010号", "source": "title"}
+{"query_id": "zhm_000210", "query": "查找包含编号“编号：（2019085号”的中文文档页面。", "page_id": "COLD_CELL_600/1424", "evidence": "编号：（2019085号", "source": "identifier"}
+{"query_id": "zhm_000211", "query": "查找标题或抬头包含“编号：（2019）083号”的中文文档页面。", "page_id": "COLD_CELL_600/1425", "evidence": "编号：（2019）083号", "source": "title"}
+{"query_id": "zhm_000212", "query": "查找标题或抬头包含“编号：（2020）045号”的中文文档页面。", "page_id": "COLD_CELL_600/1426", "evidence": "编号：（2020）045号", "source": "title"}
+{"query_id": "zhm_000213", "query": "查找包含编号“2021-14”的中文文档页面。", "page_id": "COLD_CELL_600/1427", "evidence": "厦门银保监局行政处罚信息公开表2021-14", "source": "identifier"}
+{"query_id": "zhm_000214", "query": "查找标题或抬头包含“编号：（2018）024号”的中文文档页面。", "page_id": "COLD_CELL_600/1429", "evidence": "编号：（2018）024号", "source": "title"}
+{"query_id": "zhm_000215", "query": "查找包含编号“热线电话：962740”的中文文档页面。", "page_id": "COLD_CELL_600/143", "evidence": "热线电话：962740", "source": "identifier"}
+{"query_id": "zhm_000216", "query": "查找标题或抬头包含“编号：（2021）016号”的中文文档页面。", "page_id": "COLD_CELL_600/1431", "evidence": "编号：（2021）016号", "source": "title"}
+{"query_id": "zhm_000217", "query": "查找标题或抬头包含“编号：（2018）020号”的中文文档页面。", "page_id": "COLD_CELL_600/1432", "evidence": "编号：（2018）020号", "source": "title"}
+{"query_id": "zhm_000218", "query": "查找标题或抬头包含“编号：（2019）032号”的中文文档页面。", "page_id": "COLD_CELL_600/1434", "evidence": "编号：（2019）032号", "source": "title"}
+{"query_id": "zhm_000219", "query": "查找包含日期“2017.6.29”的中文文档页面。", "page_id": "COLD_CELL_600/1435", "evidence": "填报时间：2017.6.29", "source": "date"}
+{"query_id": "zhm_000220", "query": "查找标题或抬头包含“编号：（2021）036号”的中文文档页面。", "page_id": "COLD_CELL_600/1436", "evidence": "编号：（2021）036号", "source": "title"}
+{"query_id": "zhm_000221", "query": "查找标题或抬头包含“顺德区市场监督管理局行政处罚信息公开表”的中文文档页面。", "page_id": "COLD_CELL_600/1439", "evidence": "顺德区市场监督管理局行政处罚信息公开表", "source": "title"}
+{"query_id": "zhm_000222", "query": "查找包含编号“主体编号：440105”的中文文档页面。", "page_id": "COLD_CELL_600/144", "evidence": "主体编号：440105", "source": "identifier"}
+{"query_id": "zhm_000223", "query": "查找标题或抬头包含“巢湖银保监分局行政处罚信息公开表（巢银保监罚决字[2020]1号）”的中文文档页面。", "page_id": "COLD_CELL_600/1443", "evidence": "巢湖银保监分局行政处罚信息公开表（巢银保监罚决字[2020]1号）", "source": "title"}
+{"query_id": "zhm_000224", "query": "查找标题或抬头包含“编号：（2021）035号”的中文文档页面。", "page_id": "COLD_CELL_600/1444", "evidence": "编号：（2021）035号", "source": "title"}
+{"query_id": "zhm_000225", "query": "查找标题或抬头包含“填报单位：商水县食品药品监督管理局 填报人：康乐乐 鉴发人”的中文文档页面。", "page_id": "COLD_CELL_600/1445", "evidence": "填报单位：商水县食品药品监督管理局 填报人：康乐乐 鉴发人", "source": "title"}
+{"query_id": "zhm_000226", "query": "查找标题或抬头包含“编号：（2020）011号”的中文文档页面。", "page_id": "COLD_CELL_600/1447", "evidence": "编号：（2020）011号", "source": "title"}
+{"query_id": "zhm_000227", "query": "查找标题或抬头包含“（江苏启东农村商业银行股份有限公司）”的中文文档页面。", "page_id": "COLD_CELL_600/1452", "evidence": "（江苏启东农村商业银行股份有限公司）", "source": "title"}
+{"query_id": "zhm_000228", "query": "查找标题或抬头包含“编号：（2020）008号”的中文文档页面。", "page_id": "COLD_CELL_600/1453", "evidence": "编号：（2020）008号", "source": "title"}
+{"query_id": "zhm_000229", "query": "查找标题或抬头包含“苏州市站苏区物价局行政处罚信息公开表”的中文文档页面。", "page_id": "COLD_CELL_600/1456", "evidence": "苏州市站苏区物价局行政处罚信息公开表", "source": "title"}
+{"query_id": "zhm_000230", "query": "查找标题或抬头包含“编号：（2021）008号”的中文文档页面。", "page_id": "COLD_CELL_600/1457", "evidence": "编号：（2021）008号", "source": "title"}
+{"query_id": "zhm_000231", "query": "查找包含编号“编号：（20190015号”的中文文档页面。", "page_id": "COLD_CELL_600/1458", "evidence": "编号：（20190015号", "source": "identifier"}
+{"query_id": "zhm_000232", "query": "查找标题或抬头包含“编号：（2021）037号”的中文文档页面。", "page_id": "COLD_CELL_600/1460", "evidence": "编号：（2021）037号", "source": "title"}
+{"query_id": "zhm_000233", "query": "查找标题或抬头包含“编号：（2019）039号”的中文文档页面。", "page_id": "COLD_CELL_600/1461", "evidence": "编号：（2019）039号", "source": "title"}
+{"query_id": "zhm_000234", "query": "查找标题或抬头包含“编号：（2019）079号”的中文文档页面。", "page_id": "COLD_CELL_600/1463", "evidence": "编号：（2019）079号", "source": "title"}
+{"query_id": "zhm_000235", "query": "查找标题或抬头包含“编号：（2019）004号”的中文文档页面。", "page_id": "COLD_CELL_600/1464", "evidence": "编号：（2019）004号", "source": "title"}
+{"query_id": "zhm_000236", "query": "查找标题或抬头包含“编号：（2021）024号”的中文文档页面。", "page_id": "COLD_CELL_600/1465", "evidence": "编号：（2021）024号", "source": "title"}
+{"query_id": "zhm_000237", "query": "查找标题或抬头包含“编号：（2018）016号”的中文文档页面。", "page_id": "COLD_CELL_600/1467", "evidence": "编号：（2018）016号", "source": "title"}
+{"query_id": "zhm_000238", "query": "查找标题或抬头包含“卫生计生行政处罚案件信息公开”的中文文档页面。", "page_id": "COLD_CELL_600/1472", "evidence": "卫生计生行政处罚案件信息公开", "source": "title"}
+{"query_id": "zhm_000239", "query": "查找标题或抬头包含“日照银保监分局行政处罚信息公开表”的中文文档页面。", "page_id": "COLD_CELL_600/1474", "evidence": "日照银保监分局行政处罚信息公开表", "source": "title"}
+{"query_id": "zhm_000240", "query": "查找标题或抬头包含“（招联消费金融有限公司）”的中文文档页面。", "page_id": "COLD_CELL_600/1477", "evidence": "（招联消费金融有限公司）", "source": "title"}
+{"query_id": "zhm_000241", "query": "查找标题或抬头包含“编号：（2021）044号”的中文文档页面。", "page_id": "COLD_CELL_600/1480", "evidence": "编号：（2021）044号", "source": "title"}
+{"query_id": "zhm_000242", "query": "查找标题或抬头包含“编号：（2018）021号”的中文文档页面。", "page_id": "COLD_CELL_600/1482", "evidence": "编号：（2018）021号", "source": "title"}
+{"query_id": "zhm_000243", "query": "查找标题或抬头包含“中国银行保险监督管理委员会行政处罚信息公开表（ )）”的中文文档页面。", "page_id": "COLD_CELL_600/1483", "evidence": "中国银行保险监督管理委员会行政处罚信息公开表（ )）", "source": "title"}
+{"query_id": "zhm_000244", "query": "查找标题或抬头包含“编号：（2020）039号”的中文文档页面。", "page_id": "COLD_CELL_600/1485", "evidence": "编号：（2020）039号", "source": "title"}
+{"query_id": "zhm_000245", "query": "查找标题或抬头包含“编号：（2020）006号”的中文文档页面。", "page_id": "COLD_CELL_600/1487", "evidence": "编号：（2020）006号", "source": "title"}
+{"query_id": "zhm_000246", "query": "查找标题或抬头包含“编号：（2018）019号”的中文文档页面。", "page_id": "COLD_CELL_600/1488", "evidence": "编号：（2018）019号", "source": "title"}
+{"query_id": "zhm_000247", "query": "查找包含编号“编号：（2019007号”的中文文档页面。", "page_id": "COLD_CELL_600/1492", "evidence": "编号：（2019007号", "source": "identifier"}
+{"query_id": "zhm_000248", "query": "查找标题或抬头包含“编号：（2021）004号”的中文文档页面。", "page_id": "COLD_CELL_600/1494", "evidence": "编号：（2021）004号", "source": "title"}
+{"query_id": "zhm_000249", "query": "查找标题或抬头包含“编号：（2020）044号”的中文文档页面。", "page_id": "COLD_CELL_600/1495", "evidence": "编号：（2020）044号", "source": "title"}
+{"query_id": "zhm_000250", "query": "查找标题或抬头包含“编号：（2021）026号”的中文文档页面。", "page_id": "COLD_CELL_600/1496", "evidence": "编号：（2021）026号", "source": "title"}
+{"query_id": "zhm_000251", "query": "查找包含编号“报告编号：FZ/H21N008-02”的中文文档页面。", "page_id": "COLD_CELL_600/1499", "evidence": "报告编号：FZ/H21N008-02", "source": "identifier"}
+{"query_id": "zhm_000252", "query": "查找包含联系电话“0170718034”的中文文档页面。", "page_id": "COLD_CELL_600/15", "evidence": "报告单号：20170718034", "source": "phone"}
+{"query_id": "zhm_000253", "query": "查找包含日期“2018年12月29日”的中文文档页面。", "page_id": "COLD_CELL_600/1500", "evidence": "6、报告日期：2018年12月29日", "source": "date"}
+{"query_id": "zhm_000254", "query": "查找包含编号“任务编号：2015185”的中文文档页面。", "page_id": "COLD_CELL_600/1505", "evidence": "任务编号：2015185", "source": "identifier"}
+{"query_id": "zhm_000255", "query": "查找包含编号“报告编号：HYHJ19101402”的中文文档页面。", "page_id": "COLD_CELL_600/1509", "evidence": "报告编号：HYHJ19101402", "source": "identifier"}
+{"query_id": "zhm_000256", "query": "查找标题或抬头包含“3.1废水检测点位布设及检测时间、工况”的中文文档页面。", "page_id": "COLD_CELL_600/1510", "evidence": "3.1废水检测点位布设及检测时间、工况", "source": "title"}
+{"query_id": "zhm_000257", "query": "查找包含编号“报告编号（Rep0rtID）：HYT2007661-2”的中文文档页面。", "page_id": "COLD_CELL_600/1513", "evidence": "报告编号（Rep0rtID）：HYT2007661-2", "source": "identifier"}
+{"query_id": "zhm_000258", "query": "查找标题或抬头包含“山东拓恒安全技术咨询服务有限公司”的中文文档页面。", "page_id": "COLD_CELL_600/1519", "evidence": "山东拓恒安全技术咨询服务有限公司", "source": "title"}
+{"query_id": "zhm_000259", "query": "查找标题或抬头包含“采购单位：辉县市交通运输局执法大队”的中文文档页面。", "page_id": "COLD_CELL_600/152", "evidence": "采购单位：辉县市交通运输局执法大队", "source": "title"}
+{"query_id": "zhm_000260", "query": "查找包含编号“报告编号：HYHJ19091023”的中文文档页面。", "page_id": "COLD_CELL_600/1520", "evidence": "报告编号：HYHJ19091023", "source": "identifier"}
+{"query_id": "zhm_000261", "query": "查找包含联系电话“18025246511”的中文文档页面。", "page_id": "COLD_CELL_600/1522", "evidence": "报告编号A2180252465110CH", "source": "phone"}
+{"query_id": "zhm_000262", "query": "查找标题或抬头包含“伊型玖道检测技术服务有限公司”的中文文档页面。", "page_id": "COLD_CELL_600/1525", "evidence": "伊型玖道检测技术服务有限公司", "source": "title"}
+{"query_id": "zhm_000263", "query": "查找包含日期“2020年3月23日”的中文文档页面。", "page_id": "COLD_CELL_600/1543", "evidence": "日期：2020年3月23日", "source": "date"}
+{"query_id": "zhm_000264", "query": "查找包含文本“1.室内艺术装饰设计项目内容”的中文文档页面。", "page_id": "COLD_CELL_600/1547", "evidence": "1.室内艺术装饰设计项目内容", "source": "text"}
+{"query_id": "zhm_000265", "query": "查找包含文本“新密市白寨镇人民政府X044白刘线油坊至郑登快速等三条县、乡道公路改建施工监理项目监理标段”的中文文档页面。", "page_id": "COLD_CELL_600/1567", "evidence": "新密市白寨镇人民政府X044白刘线油坊至郑登快速等三条县、乡道公路改建施工监理项目监理标段", "source": "text"}
+{"query_id": "zhm_000266", "query": "查找包含日期“2018年05月24日”的中文文档页面。", "page_id": "COLD_CELL_600/1569", "evidence": "投标日期：2018年05月24日", "source": "date"}
+{"query_id": "zhm_000267", "query": "查找包含日期“2009年12月30日”的中文文档页面。", "page_id": "COLD_CELL_600/1570", "evidence": "填制日期：2009年12月30日", "source": "date"}
+{"query_id": "zhm_000268", "query": "查找包含日期“2020年2月12日”的中文文档页面。", "page_id": "COLD_CELL_600/1572", "evidence": "填表日期：2020年2月12日", "source": "date"}
+{"query_id": "zhm_000269", "query": "查找包含日期“2020年6月10日”的中文文档页面。", "page_id": "COLD_CELL_600/1576", "evidence": "填表日期：2020年6月10日", "source": "date"}
+{"query_id": "zhm_000270", "query": "查找包含日期“2021年2月3日”的中文文档页面。", "page_id": "COLD_CELL_600/1577", "evidence": "填表日期：2021年2月3日", "source": "date"}
+{"query_id": "zhm_000271", "query": "查找包含联系电话“16230068805”的中文文档页面。", "page_id": "COLD_CELL_600/1578", "evidence": "连平县工业商务和信息化局 4416230068805", "source": "phone"}
+{"query_id": "zhm_000272", "query": "查找标题或抬头包含“上线站科质量监督检验中心 务 检测业 专用章”的中文文档页面。", "page_id": "COLD_CELL_600/1647", "evidence": "上线站科质量监督检验中心 务 检测业 专用章", "source": "title"}
+{"query_id": "zhm_000273", "query": "查找包含文本“2.限值：按照农业农村部第20号公告《宠物饲料卫生规定》，客供限值（由客户提供，SGS不承担提供的准确性和有效性责任）”的中文文档页面。", "page_id": "COLD_CELL_600/1651", "evidence": "2.限值：按照农业农村部第20号公告《宠物饲料卫生规定》，客供限值（由客户提供，SGS不承担提供的准确性和有效性责任）", "source": "text"}
+{"query_id": "zhm_000274", "query": "查找标题或抬头包含“24小时供水服务热线：96510”的中文文档页面。", "page_id": "COLD_CELL_600/1656", "evidence": "24小时供水服务热线：96510", "source": "title"}
+{"query_id": "zhm_000275", "query": "查找包含编号“发票号码：00008318”的中文文档页面。", "page_id": "COLD_CELL_600/1658", "evidence": "发票号码：00008318", "source": "identifier"}
+{"query_id": "zhm_000276", "query": "查找标题或抬头包含“2008年04月自来水厂水费收据单”的中文文档页面。", "page_id": "COLD_CELL_600/1661", "evidence": "2008年04月自来水厂水费收据单", "source": "title"}
+{"query_id": "zhm_000277", "query": "查找包含金额“2.47元”的中文文档页面。", "page_id": "COLD_CELL_600/1665", "evidence": "综合单价：2.47元/吨余额：1.32元", "source": "money"}
+{"query_id": "zhm_000278", "query": "查找包含日期“2016-03-22”的中文文档页面。", "page_id": "COLD_CELL_600/1667", "evidence": "打印时间：2016-03-2215:40:44", "source": "date"}
+{"query_id": "zhm_000279", "query": "查找包含日期“2019年12月16日”的中文文档页面。", "page_id": "COLD_CELL_600/1674", "evidence": "公示期限：2019年12月16日—2019年12月20日", "source": "date"}
+{"query_id": "zhm_000280", "query": "查找包含文本“（海螺肉、鲜豇豆、酸豇豆）”的中文文档页面。", "page_id": "COLD_CELL_600/1707", "evidence": "（海螺肉、鲜豇豆、酸豇豆）", "source": "text"}
+{"query_id": "zhm_000281", "query": "查找包含金额“1元”的中文文档页面。", "page_id": "COLD_CELL_600/1710", "evidence": "13传统肉酱意大利面 价：1元", "source": "money"}
+{"query_id": "zhm_000282", "query": "查找包含金额“108元”的中文文档页面。", "page_id": "COLD_CELL_600/1711", "evidence": "108元/例牌Portion", "source": "money"}
+{"query_id": "zhm_000283", "query": "查找包含编号“地址：格田龙震路276-278号”的中文文档页面。", "page_id": "COLD_CELL_600/1716", "evidence": "地址：格田龙震路276-278号", "source": "identifier"}
+{"query_id": "zhm_000284", "query": "查找包含编号“818000”的中文文档页面。", "page_id": "COLD_CELL_600/172", "evidence": "有限公司818000 （）", "source": "identifier"}
+{"query_id": "zhm_000285", "query": "查找标题或抬头包含“五香花生米 5玩元玩元 凉拌黄瓜 元元元元”的中文文档页面。", "page_id": "COLD_CELL_600/1730", "evidence": "五香花生米 5玩元玩元 凉拌黄瓜 元元元元", "source": "title"}
+{"query_id": "zhm_000286", "query": "查找包含金额“8888元”的中文文档页面。", "page_id": "COLD_CELL_600/1731", "evidence": "8888元元元元元元元哨子干拌面 油泼面 哨子汤面 西红柿鸡蛋面 肉丝细面", "source": "money"}
+{"query_id": "zhm_000287", "query": "查找包含联系电话“15268486532”的中文文档页面。", "page_id": "COLD_CELL_600/1735", "evidence": "订餐热线：15268486532", "source": "phone"}
+{"query_id": "zhm_000288", "query": "查找包含联系电话“13485772321”的中文文档页面。", "page_id": "COLD_CELL_600/1739", "evidence": "外卖电话13485772321", "source": "phone"}
+{"query_id": "zhm_000289", "query": "查找包含金额“45元”的中文文档页面。", "page_id": "COLD_CELL_600/1747", "evidence": "香辣田螺45元/份", "source": "money"}
+{"query_id": "zhm_000290", "query": "查找包含联系电话“13823093401”的中文文档页面。", "page_id": "COLD_CELL_600/1754", "evidence": "电话：13823093401", "source": "phone"}
+{"query_id": "zhm_000291", "query": "查找标题或抬头包含“珍宝巨蝶 32 金票叉烧 26 香茜肥牛布拉服 28”的中文文档页面。", "page_id": "COLD_CELL_600/1764", "evidence": "珍宝巨蝶 32 金票叉烧 26 香茜肥牛布拉服 28", "source": "title"}
+{"query_id": "zhm_000292", "query": "查找标题或抬头包含“主餐：美式烧西冷牛排1份”的中文文档页面。", "page_id": "COLD_CELL_600/1765", "evidence": "主餐：美式烧西冷牛排1份", "source": "title"}
+{"query_id": "zhm_000293", "query": "查找标题或抬头包含“唐扬鱿鱼凤尾桑巴虾虾仁圆滚滚田园鸡块香酥鸡米花”的中文文档页面。", "page_id": "COLD_CELL_600/1766", "evidence": "唐扬鱿鱼凤尾桑巴虾虾仁圆滚滚田园鸡块香酥鸡米花", "source": "title"}
+{"query_id": "zhm_000294", "query": "查找包含金额“568元”的中文文档页面。", "page_id": "COLD_CELL_600/1768", "evidence": "568元/份Portion", "source": "money"}
+{"query_id": "zhm_000295", "query": "查找包含金额“3元”的中文文档页面。", "page_id": "COLD_CELL_600/1772", "evidence": "小料 蘑菇汁 3元 黑胡椒汁 番茄汁", "source": "money"}
+{"query_id": "zhm_000296", "query": "查找包含金额“7元”的中文文档页面。", "page_id": "COLD_CELL_600/1777", "evidence": "伊利每益添 7元/杯", "source": "money"}
+{"query_id": "zhm_000297", "query": "查找包含编号“DRINKS”的中文文档页面。", "page_id": "COLD_CELL_600/1779", "evidence": "自制饮品BAIN DRINKS", "source": "identifier"}
+{"query_id": "zhm_000298", "query": "查找包含联系电话“13888888888”的中文文档页面。", "page_id": "COLD_CELL_600/1789", "evidence": "—订座热线：13888888888", "source": "phone"}
+{"query_id": "zhm_000299", "query": "查找包含编号“HUAIYANGVARIED”的中文文档页面。", "page_id": "COLD_CELL_600/1793", "evidence": "新品淮扬菜HUAIYANGVARIED IMAGINATIVE", "source": "identifier"}
+{"query_id": "zhm_000300", "query": "查找包含金额“63元”的中文文档页面。", "page_id": "COLD_CELL_600/1799", "evidence": "63元（供2位用）", "source": "money"}
+{"query_id": "zhm_000301", "query": "查找包含日期“2014-05-28”的中文文档页面。", "page_id": "COLD_CELL_600/18", "evidence": "签发期：2014-05-28", "source": "date"}
+{"query_id": "zhm_000302", "query": "查找包含编号“20200519”的中文文档页面。", "page_id": "COLD_CELL_600/180", "evidence": "20200519期广西祥盛家居材料科技股份有限公司化肥及化工原料采购清单", "source": "identifier"}
+{"query_id": "zhm_000303", "query": "查找包含编号“069PAPADAMS”的中文文档页面。", "page_id": "COLD_CELL_600/1800", "evidence": "069PAPADAMS 威化胡椒饼 ￥6.00", "source": "identifier"}
+{"query_id": "zhm_000304", "query": "查找标题或抬头包含“施工单位技术联系单（通用）”的中文文档页面。", "page_id": "COLD_CELL_600/1812", "evidence": "施工单位技术联系单（通用）", "source": "title"}
+{"query_id": "zhm_000305", "query": "查找包含编号“编号：济轨总工办（技术中心）2018-001号”的中文文档页面。", "page_id": "COLD_CELL_600/1821", "evidence": "编号：济轨总工办（技术中心）2018-001号", "source": "identifier"}
+{"query_id": "zhm_000306", "query": "查找标题或抬头包含“单位（部门）：上海世方建筑工程有限公司（二标段）”的中文文档页面。", "page_id": "COLD_CELL_600/1834", "evidence": "单位（部门）：上海世方建筑工程有限公司（二标段）", "source": "title"}
+{"query_id": "zhm_000307", "query": "查找包含编号“发票号码：05123884”的中文文档页面。", "page_id": "COLD_CELL_600/1841", "evidence": "发票号码：05123884", "source": "identifier"}
+{"query_id": "zhm_000308", "query": "查找标题或抬头包含“平顶山市2019年市直单位政府采购预算及实施计划表”的中文文档页面。", "page_id": "COLD_CELL_600/1871", "evidence": "平顶山市2019年市直单位政府采购预算及实施计划表", "source": "title"}
+{"query_id": "zhm_000309", "query": "查找包含编号“1000002140”的中文文档页面。", "page_id": "COLD_CELL_600/19", "evidence": "造板与木竹制品质量监督检验中心 1000002140", "source": "identifier"}
+{"query_id": "zhm_000310", "query": "查找包含联系电话“08810035701”的中文文档页面。", "page_id": "COLD_CELL_600/191", "evidence": "济源市人民政府天坛街道办事处 4108810035701", "source": "phone"}
+{"query_id": "zhm_000311", "query": "查找标题或抬头包含“填报单位：常德市水利局水利局”的中文文档页面。", "page_id": "COLD_CELL_600/1914", "evidence": "填报单位：常德市水利局水利局", "source": "title"}
+{"query_id": "zhm_000312", "query": "查找包含日期“2021年1月5日”的中文文档页面。", "page_id": "COLD_CELL_600/1931", "evidence": "填报日期：2021年1月5日", "source": "date"}
+{"query_id": "zhm_000313", "query": "查找标题或抬头包含“天津市质量监督检验站 第十五站”的中文文档页面。", "page_id": "COLD_CELL_600/20", "evidence": "天津市质量监督检验站 第十五站", "source": "title"}
+{"query_id": "zhm_000314", "query": "查找标题或抬头包含“中央储，“澳河直属库有限公司 综合科 4111综合科123”的中文文档页面。", "page_id": "COLD_CELL_600/210", "evidence": "中央储，“澳河直属库有限公司 综合科 4111综合科123", "source": "title"}
+{"query_id": "zhm_000315", "query": "查找标题或抬头包含“金银贵金居珠宝玉石饰品质量然督检 15年6 一 4-058”的中文文档页面。", "page_id": "COLD_CELL_600/23", "evidence": "金银贵金居珠宝玉石饰品质量然督检 15年6 一 4-058", "source": "title"}
+{"query_id": "zhm_000316", "query": "查找包含日期“2014/08/01”的中文文档页面。", "page_id": "COLD_CELL_600/242", "evidence": "订单日期：2014/08/01", "source": "date"}
+{"query_id": "zhm_000317", "query": "查找包含日期“2020-07-08”的中文文档页面。", "page_id": "COLD_CELL_600/25", "evidence": "报告日期：2020-07-08", "source": "date"}
+{"query_id": "zhm_000318", "query": "查找包含文本“（五）本项目不接受联合体报价”的中文文档页面。", "page_id": "COLD_CELL_600/253", "evidence": "（五）本项目不接受联合体报价", "source": "text"}
+{"query_id": "zhm_000319", "query": "查找标题或抬头包含“佛山市质量计量监督检测中心检验报告”的中文文档页面。", "page_id": "COLD_CELL_600/26", "evidence": "佛山市质量计量监督检测中心检验报告", "source": "title"}
+{"query_id": "zhm_000320", "query": "查找包含日期“2018年09月02日”的中文文档页面。", "page_id": "COLD_CELL_600/275", "evidence": "日期（Date）：2018年09月02日20:00", "source": "date"}
+{"query_id": "zhm_000321", "query": "查找包含编号“型号/规格/等级：JTX-TL12”的中文文档页面。", "page_id": "COLD_CELL_600/29", "evidence": "型号/规格/等级：JTX-TL12", "source": "identifier"}
+{"query_id": "zhm_000322", "query": "查找包含日期“2019.04.19”的中文文档页面。", "page_id": "COLD_CELL_600/30", "evidence": "日期：2019.04.19", "source": "date"}
+{"query_id": "zhm_000323", "query": "查找包含编号“2031812”的中文文档页面。", "page_id": "COLD_CELL_600/31", "evidence": "No.(2018)2031812", "source": "identifier"}
+{"query_id": "zhm_000324", "query": "查找包含日期“2016年10月1日”的中文文档页面。", "page_id": "COLD_CELL_600/315", "evidence": "时间：2016年10月1日9:30-16:30地点：苏州国际博览中心（B1馆）", "source": "date"}
+{"query_id": "zhm_000325", "query": "查找包含日期“2008-06-12”的中文文档页面。", "page_id": "COLD_CELL_600/331", "evidence": "日期：2008-06-12", "source": "date"}
+{"query_id": "zhm_000326", "query": "查找包含文本“地址Address：东莞市莞城区东纵大道3号”的中文文档页面。", "page_id": "COLD_CELL_600/333", "evidence": "地址Address：东莞市莞城区东纵大道3号", "source": "text"}
+{"query_id": "zhm_000327", "query": "查找包含联系电话“01906200003”的中文文档页面。", "page_id": "COLD_CELL_600/335", "evidence": "入库单号：0201PE201906200003仓库： 上海仓库", "source": "phone"}
+{"query_id": "zhm_000328", "query": "查找包含日期“2017-12-20”的中文文档页面。", "page_id": "COLD_CELL_600/336", "evidence": "入库日期2017-12-20", "source": "date"}
+{"query_id": "zhm_000329", "query": "查找包含编号“编号：XS-20170318-1”的中文文档页面。", "page_id": "COLD_CELL_600/337", "evidence": "编号：XS-20170318-1", "source": "identifier"}
+{"query_id": "zhm_000330", "query": "查找包含日期“2016年07月18日”的中文文档页面。", "page_id": "COLD_CELL_600/34", "evidence": "報告號碼：TX70738/2016/JA日期：2016年07月18日頁数：七之一頁", "source": "date"}
+{"query_id": "zhm_000331", "query": "查找包含日期“2013年10月27日”的中文文档页面。", "page_id": "COLD_CELL_600/347", "evidence": "日期：2013年10月27日", "source": "date"}
+{"query_id": "zhm_000332", "query": "查找包含日期“2013-11-13”的中文文档页面。", "page_id": "COLD_CELL_600/35", "evidence": "检测报告日期:2013-11-13", "source": "date"}
+{"query_id": "zhm_000333", "query": "查找包含日期“2019年8月8日”的中文文档页面。", "page_id": "COLD_CELL_600/354", "evidence": "收货单位：聚乐派婚品2019年8月8日", "source": "date"}
+{"query_id": "zhm_000334", "query": "查找包含联系电话“0000000002”的中文文档页面。", "page_id": "COLD_CELL_600/360", "evidence": "出库单号0000000002", "source": "phone"}
+{"query_id": "zhm_000335", "query": "查找标题或抬头包含“地址：武汉市东西湖区湖东路116号”的中文文档页面。", "page_id": "COLD_CELL_600/364", "evidence": "地址：武汉市东西湖区湖东路116号", "source": "title"}
+{"query_id": "zhm_000336", "query": "查找包含日期“2019-05-06”的中文文档页面。", "page_id": "COLD_CELL_600/369", "evidence": "出库日期2019-05-06", "source": "date"}
+{"query_id": "zhm_000337", "query": "查找标题或抬头包含“入库日期：2015年8月”的中文文档页面。", "page_id": "COLD_CELL_600/370", "evidence": "入库日期：2015年8月", "source": "title"}
+{"query_id": "zhm_000338", "query": "查找包含编号“2012040006”的中文文档页面。", "page_id": "COLD_CELL_600/372", "evidence": "单号2012040006", "source": "identifier"}
+{"query_id": "zhm_000339", "query": "查找包含编号“2016-06712”的中文文档页面。", "page_id": "COLD_CELL_600/376", "evidence": "单日期2016-06712", "source": "identifier"}
+{"query_id": "zhm_000340", "query": "查找包含日期“2013-8-16”的中文文档页面。", "page_id": "COLD_CELL_600/380", "evidence": "日期：2013-8-16", "source": "date"}
+{"query_id": "zhm_000341", "query": "查找包含日期“2014年08月09日”的中文文档页面。", "page_id": "COLD_CELL_600/383", "evidence": "出库日期：2014年08月09日", "source": "date"}
+{"query_id": "zhm_000342", "query": "查找包含日期“2009-8-7”的中文文档页面。", "page_id": "COLD_CELL_600/387", "evidence": "日期：2009-8-7送货单号：DLSHD908-14", "source": "date"}
+{"query_id": "zhm_000343", "query": "查找包含联系电话“00000214084”的中文文档页面。", "page_id": "COLD_CELL_600/39", "evidence": "国家人造板与态竹制品质量监督检验中心 1100000214084", "source": "phone"}
+{"query_id": "zhm_000344", "query": "查找包含日期“2016-05-12”的中文文档页面。", "page_id": "COLD_CELL_600/390", "evidence": "单据日期2016-05-12", "source": "date"}
+{"query_id": "zhm_000345", "query": "查找包含日期“2017-03-06”的中文文档页面。", "page_id": "COLD_CELL_600/391", "evidence": "日期：2017-03-06单据编号：K01702014", "source": "date"}
+{"query_id": "zhm_000346", "query": "查找包含日期“2016-07-29”的中文文档页面。", "page_id": "COLD_CELL_600/392", "evidence": "日期：2016-07-29", "source": "date"}
+{"query_id": "zhm_000347", "query": "查找包含文本“名称及规格 单位 数量 单价 金额 备 注 刀旗 6000 合计（大写）人民币陆仟元整 送货人： 记账： 经手人”的中文文档页面。", "page_id": "COLD_CELL_600/395", "evidence": "名称及规格 单位 数量 单价 金额 备 注 刀旗 6000 合计（大写）人民币陆仟元整 送货人： 记账： 经手人", "source": "text"}
+{"query_id": "zhm_000348", "query": "查找包含编号“报告单号：2017052327”的中文文档页面。", "page_id": "COLD_CELL_600/4", "evidence": "报告单号：2017052327", "source": "identifier"}
+{"query_id": "zhm_000349", "query": "查找包含日期“2016/3/23”的中文文档页面。", "page_id": "COLD_CELL_600/400", "evidence": "日期：2016/3/23", "source": "date"}
+{"query_id": "zhm_000350", "query": "查找包含联系电话“021-34092670”的中文文档页面。", "page_id": "COLD_CELL_600/402", "evidence": "上海市申滨路1051弄153-102电话/传真：021-34092670/24284261", "source": "phone"}
+{"query_id": "zhm_000351", "query": "查找包含日期“2012-12-24”的中文文档页面。", "page_id": "COLD_CELL_600/403", "evidence": "库日期：2012-12-24", "source": "date"}
+{"query_id": "zhm_000352", "query": "查找标题或抬头包含“中国石油天然气股份有限公司成品油配送单”的中文文档页面。", "page_id": "COLD_CELL_600/406", "evidence": "中国石油天然气股份有限公司成品油配送单", "source": "title"}
+{"query_id": "zhm_000353", "query": "查找包含日期“2014.02.2”的中文文档页面。", "page_id": "COLD_CELL_600/407", "evidence": "日期：2014.02.2", "source": "date"}
+{"query_id": "zhm_000354", "query": "查找包含日期“2017-09-30”的中文文档页面。", "page_id": "COLD_CELL_600/408", "evidence": "出库日期2017-09-30", "source": "date"}
+{"query_id": "zhm_000355", "query": "查找包含编号“单据编号：QRD180403001”的中文文档页面。", "page_id": "COLD_CELL_600/409", "evidence": "单据编号：QRD180403001", "source": "identifier"}
+{"query_id": "zhm_000356", "query": "查找包含日期“2019.01.01”的中文文档页面。", "page_id": "COLD_CELL_600/410", "evidence": "日期：2019.01.01", "source": "date"}
+{"query_id": "zhm_000357", "query": "查找包含日期“2013-12-26”的中文文档页面。", "page_id": "COLD_CELL_600/412", "evidence": "单据日期：2013-12-26", "source": "date"}
+{"query_id": "zhm_000358", "query": "查找包含日期“2014-04-24”的中文文档页面。", "page_id": "COLD_CELL_600/416", "evidence": "入库日期：2014-04-24", "source": "date"}
+{"query_id": "zhm_000359", "query": "查找包含日期“2018-12-31”的中文文档页面。", "page_id": "COLD_CELL_600/419", "evidence": "单据日期2018-12-31", "source": "date"}
+{"query_id": "zhm_000360", "query": "查找包含日期“2014年12月02日”的中文文档页面。", "page_id": "COLD_CELL_600/421", "evidence": "入库日期：2014年12月02日", "source": "date"}
+{"query_id": "zhm_000361", "query": "查找包含日期“2015-09-15”的中文文档页面。", "page_id": "COLD_CELL_600/422", "evidence": "日期：2015-09-15", "source": "date"}
+{"query_id": "zhm_000362", "query": "查找包含编号“单据编号：XSCK-20181107-0003”的中文文档页面。", "page_id": "COLD_CELL_600/423", "evidence": "单据编号：XSCK-20181107-0003", "source": "identifier"}
+{"query_id": "zhm_000363", "query": "查找包含日期“2018-10-24”的中文文档页面。", "page_id": "COLD_CELL_600/424", "evidence": "入库日期：2018-10-24", "source": "date"}
+{"query_id": "zhm_000364", "query": "查找包含日期“2016年8月30日”的中文文档页面。", "page_id": "COLD_CELL_600/425", "evidence": "单据日期：2016年8月30日", "source": "date"}
+{"query_id": "zhm_000365", "query": "查找包含日期“2015-08-31”的中文文档页面。", "page_id": "COLD_CELL_600/428", "evidence": "出库日期2015-08-31", "source": "date"}
+{"query_id": "zhm_000366", "query": "查找标题或抬头包含“国家橡 验中心 e 检2017年用章月”的中文文档页面。", "page_id": "COLD_CELL_600/43", "evidence": "国家橡 验中心 e 检2017年用章月", "source": "title"}
+{"query_id": "zhm_000367", "query": "查找包含编号“库存单号：IM180627 001”的中文文档页面。", "page_id": "COLD_CELL_600/434", "evidence": "库存单号：IM180627 001", "source": "identifier"}
+{"query_id": "zhm_000368", "query": "查找包含日期“2018-10-25”的中文文档页面。", "page_id": "COLD_CELL_600/435", "evidence": "日期：2018-10-2510:38:46", "source": "date"}
+{"query_id": "zhm_000369", "query": "查找包含日期“2016-04-24”的中文文档页面。", "page_id": "COLD_CELL_600/441", "evidence": "入库日期：2016-04-24", "source": "date"}
+{"query_id": "zhm_000370", "query": "查找包含日期“2014年4月13日”的中文文档页面。", "page_id": "COLD_CELL_600/444", "evidence": "出库日期：2014年4月13日", "source": "date"}
+{"query_id": "zhm_000371", "query": "查找包含日期“2018-07-20”的中文文档页面。", "page_id": "COLD_CELL_600/446", "evidence": "单据日期2018-07-20", "source": "date"}
+{"query_id": "zhm_000372", "query": "查找包含日期“2016-02-29”的中文文档页面。", "page_id": "COLD_CELL_600/448", "evidence": "入库单号：201602290588入库日期：2016-02-29仓库：原材料", "source": "date"}
+{"query_id": "zhm_000373", "query": "查找标题或抬头包含“信息产业光通信产品质量监督检验中心”的中文文档页面。", "page_id": "COLD_CELL_600/45", "evidence": "信息产业光通信产品质量监督检验中心", "source": "title"}
+{"query_id": "zhm_000374", "query": "查找包含日期“2019-02-19”的中文文档页面。", "page_id": "COLD_CELL_600/451", "evidence": "入库日期2019-02-19", "source": "date"}
+{"query_id": "zhm_000375", "query": "查找包含日期“2018年01月07日”的中文文档页面。", "page_id": "COLD_CELL_600/452", "evidence": "单据日期：2018年01月07日08:40:22", "source": "date"}
+{"query_id": "zhm_000376", "query": "查找包含编号“2016-5送货日期：年月日”的中文文档页面。", "page_id": "COLD_CELL_600/454", "evidence": "2016-5送货日期：年月日", "source": "identifier"}
+{"query_id": "zhm_000377", "query": "查找包含联系电话“02021049935”的中文文档页面。", "page_id": "COLD_CELL_600/46", "evidence": "报告编号：W02021049935", "source": "phone"}
+{"query_id": "zhm_000378", "query": "查找包含日期“2012-11-27”的中文文档页面。", "page_id": "COLD_CELL_600/463", "evidence": "日期（）：2012-11-27", "source": "date"}
+{"query_id": "zhm_000379", "query": "查找包含日期“2013-02-27”的中文文档页面。", "page_id": "COLD_CELL_600/467", "evidence": "单据日期：2013-02-27", "source": "date"}
+{"query_id": "zhm_000380", "query": "查找标题或抬头包含“江西省产品质量监督检测院 8”的中文文档页面。", "page_id": "COLD_CELL_600/47", "evidence": "江西省产品质量监督检测院 8", "source": "title"}
+{"query_id": "zhm_000381", "query": "查找包含日期“2018-12-10”的中文文档页面。", "page_id": "COLD_CELL_600/470", "evidence": "入库单号：0000001976入库日期：2018-12-10", "source": "date"}
+{"query_id": "zhm_000382", "query": "查找包含日期“2016年1月14日”的中文文档页面。", "page_id": "COLD_CELL_600/472", "evidence": "日期：2016年1月14日单据编号：XSCKD-00016016", "source": "date"}
+{"query_id": "zhm_000383", "query": "查找包含日期“2016年11月14日”的中文文档页面。", "page_id": "COLD_CELL_600/473", "evidence": "单据日期：2016年11月14日", "source": "date"}
+{"query_id": "zhm_000384", "query": "查找包含编号“20-1150”的中文文档页面。", "page_id": "COLD_CELL_600/479", "evidence": "3.身高1.20-1150采的儿童请购儿童票", "source": "identifier"}
+{"query_id": "zhm_000385", "query": "查找包含日期“2016-04-23”的中文文档页面。", "page_id": "COLD_CELL_600/480", "evidence": "时间 Time 2016-04-23 单价", "source": "date"}
+{"query_id": "zhm_000386", "query": "查找包含编号“04027816”的中文文档页面。", "page_id": "COLD_CELL_600/492", "evidence": "发票号码04027816", "source": "identifier"}
+{"query_id": "zhm_000387", "query": "查找包含日期“2016年05月30日”的中文文档页面。", "page_id": "COLD_CELL_600/5", "evidence": "日期（Date）：2016年05月30日", "source": "date"}
+{"query_id": "zhm_000388", "query": "查找包含金额“53.0元”的中文文档页面。", "page_id": "COLD_CELL_600/504", "evidence": "聊城标准票价：53.0元", "source": "money"}
+{"query_id": "zhm_000389", "query": "查找包含编号“20-Y50”的中文文档页面。", "page_id": "COLD_CELL_600/519", "evidence": "3.身高1.20-Y50来的儿童请购儿童票", "source": "identifier"}
+{"query_id": "zhm_000390", "query": "查找包含编号“销售点：3050313054期共1期”的中文文档页面。", "page_id": "COLD_CELL_600/533", "evidence": "销售点：3050313054期共1期", "source": "identifier"}
+{"query_id": "zhm_000391", "query": "查找包含日期“2019-05-14”的中文文档页面。", "page_id": "COLD_CELL_600/535", "evidence": "开奖日：2019-05-14", "source": "date"}
+{"query_id": "zhm_000392", "query": "查找包含日期“2012-07-05”的中文文档页面。", "page_id": "COLD_CELL_600/543", "evidence": "开奖日：2012-07-05", "source": "date"}
+{"query_id": "zhm_000393", "query": "查找包含日期“2036-1-1”的中文文档页面。", "page_id": "COLD_CELL_600/55", "evidence": "报告编号：2020162036-1-1a次", "source": "date"}
+{"query_id": "zhm_000394", "query": "查找包含编号“NCL02I009546001C”的中文文档页面。", "page_id": "COLD_CELL_600/57", "evidence": "报告编号 NCL02I009546001C", "source": "identifier"}
+{"query_id": "zhm_000395", "query": "查找包含日期“2011-6-27”的中文文档页面。", "page_id": "COLD_CELL_600/592", "evidence": "制表日期：2011-6-27", "source": "date"}
+{"query_id": "zhm_000396", "query": "查找标题或抬头包含“中南财经政法大学学院学生成绩表”的中文文档页面。", "page_id": "COLD_CELL_600/595", "evidence": "中南财经政法大学学院学生成绩表", "source": "title"}
+{"query_id": "zhm_000397", "query": "查找包含联系电话“003134405000”的中文文档页面。", "page_id": "COLD_CELL_600/60", "evidence": "报告编号：C2019JD00313440500002", "source": "phone"}
+{"query_id": "zhm_000398", "query": "查找包含编号“534022090”的中文文档页面。", "page_id": "COLD_CELL_600/608", "evidence": "400ML/瓶装nas460.8千克 534022090.00 6714.2千克西班牙 （1）清洁碗筷", "source": "identifier"}
+{"query_id": "zhm_000399", "query": "查找包含编号“预录人编号：108012543”的中文文档页面。", "page_id": "COLD_CELL_600/609", "evidence": "预录人编号：108012543", "source": "identifier"}
+{"query_id": "zhm_000400", "query": "查找包含联系电话“000000001045”的中文文档页面。", "page_id": "COLD_CELL_600/610", "evidence": "数据中心统一编号：000000001045118292", "source": "phone"}
+{"query_id": "zhm_000401", "query": "查找包含联系电话“018100040391”的中文文档页面。", "page_id": "COLD_CELL_600/614", "evidence": "海关编号：222520181000403919（外港海关）", "source": "phone"}
+{"query_id": "zhm_000402", "query": "查找包含编号“200MLX12”的中文文档页面。", "page_id": "COLD_CELL_600/616", "evidence": "200MLX12支/箱", "source": "identifier"}
+{"query_id": "zhm_000403", "query": "查找包含联系电话“020220140220”的中文文档页面。", "page_id": "COLD_CELL_600/617", "evidence": "海关编号：020220140220263476", "source": "phone"}
+{"query_id": "zhm_000404", "query": "查找包含编号“预录入编号：182003259”的中文文档页面。", "page_id": "COLD_CELL_600/618", "evidence": "预录入编号：182003259", "source": "identifier"}
+{"query_id": "zhm_000405", "query": "查找包含编号“项目编号：G（H）2016-147K”的中文文档页面。", "page_id": "COLD_CELL_600/619", "evidence": "项目编号：G（H）2016-147K", "source": "identifier"}
+{"query_id": "zhm_000406", "query": "查找包含编号“报告编号：ZA-2007681”的中文文档页面。", "page_id": "COLD_CELL_600/62", "evidence": "报告编号：ZA-2007681", "source": "identifier"}
+{"query_id": "zhm_000407", "query": "查找包含日期“2018年42月27日”的中文文档页面。", "page_id": "COLD_CELL_600/623", "evidence": "日期2018年42月27日", "source": "date"}
+{"query_id": "zhm_000408", "query": "查找包含编号“本黑龙江科技大学2019年教材招标采购资格入围项目（招标项目编号：ZZ83333HW0003”的中文文档页面。", "page_id": "COLD_CELL_600/624", "evidence": "本黑龙江科技大学2019年教材招标采购资格入围项目（招标项目编号：ZZ83333HW0003", "source": "identifier"}
+{"query_id": "zhm_000409", "query": "查找包含日期“2020年5月25日”的中文文档页面。", "page_id": "COLD_CELL_600/625", "evidence": "1、开标时间：2020年5月25日16:30", "source": "date"}
+{"query_id": "zhm_000410", "query": "查找包含联系电话“0036240525”的中文文档页面。", "page_id": "COLD_CELL_600/627", "evidence": "台州市黄岩区建真工程部技标营理办公室 3310036240525", "source": "phone"}
+{"query_id": "zhm_000411", "query": "查找包含编号“项目编号：2021-JWHJSA-W1005”的中文文档页面。", "page_id": "COLD_CELL_600/629", "evidence": "项目编号：2021-JWHJSA-W1005", "source": "identifier"}
+{"query_id": "zhm_000412", "query": "查找包含日期“2016年6月14日”的中文文档页面。", "page_id": "COLD_CELL_600/630", "evidence": "三、报名时间：2016年6月14日至6月21日下午5:00止", "source": "date"}
+{"query_id": "zhm_000413", "query": "查找包含联系电话“011022000381”的中文文档页面。", "page_id": "COLD_CELL_600/631", "evidence": "丹县交通运输局 0110220003816", "source": "phone"}
+{"query_id": "zhm_000414", "query": "查找包含编号“34080100127”的中文文档页面。", "page_id": "COLD_CELL_600/632", "evidence": "80安庆市第维修武医院2 34080100127", "source": "identifier"}
+{"query_id": "zhm_000415", "query": "查找标题或抬头包含“建专最办尼体在旗住历利限乡规划建设局”的中文文档页面。", "page_id": "COLD_CELL_600/633", "evidence": "建专最办尼体在旗住历利限乡规划建设局", "source": "title"}
+{"query_id": "zhm_000416", "query": "查找包含日期“2018年09月29日”的中文文档页面。", "page_id": "COLD_CELL_600/635", "evidence": "获取时间：从2018年09月29日09时00分到20日年10月10日17时30分", "source": "date"}
+{"query_id": "zhm_000417", "query": "查找包含日期“2016年7月10日”的中文文档页面。", "page_id": "COLD_CELL_600/636", "evidence": "3、报名时间：2016年7月10日起至2016年7月18日下午17时止", "source": "date"}
+{"query_id": "zhm_000418", "query": "查找包含编号“中心编号：WT2018B03C01580”的中文文档页面。", "page_id": "COLD_CELL_600/64", "evidence": "中心编号：WT2018B03C01580", "source": "identifier"}
+{"query_id": "zhm_000419", "query": "查找标题或抬头包含“招标编号： 中恒莆招字[2018]004号”的中文文档页面。", "page_id": "COLD_CELL_600/640", "evidence": "招标编号： 中恒莆招字[2018]004号", "source": "title"}
+{"query_id": "zhm_000420", "query": "查找包含编号“2、项目编号：20161130”的中文文档页面。", "page_id": "COLD_CELL_600/645", "evidence": "2、项目编号：20161130", "source": "identifier"}
+{"query_id": "zhm_000421", "query": "查找包含金额“33910.34元”的中文文档页面。", "page_id": "COLD_CELL_600/647", "evidence": "安全文明施工费：33910.34元", "source": "money"}
+{"query_id": "zhm_000422", "query": "查找包含编号“一、招标编号：ZWJ-LZ-JHSY002-2”的中文文档页面。", "page_id": "COLD_CELL_600/648", "evidence": "一、招标编号：ZWJ-LZ-JHSY002-2", "source": "identifier"}
+{"query_id": "zhm_000423", "query": "查找包含编号“报告编号：GHHJ-JB-Q-2016-032”的中文文档页面。", "page_id": "COLD_CELL_600/65", "evidence": "报告编号：GHHJ-JB-Q-2016-032", "source": "identifier"}
+{"query_id": "zhm_000424", "query": "查找包含日期“2018年11月15日”的中文文档页面。", "page_id": "COLD_CELL_600/650", "evidence": "报送时间：2018年11月15日", "source": "date"}
+{"query_id": "zhm_000425", "query": "查找包含编号“中标人名单-中国电力科学研究院有限公司输变电工程力学性能试验场地建设施工招标采购项目（招标编号：411961）”的中文文档页面。", "page_id": "COLD_CELL_600/652", "evidence": "中标人名单-中国电力科学研究院有限公司输变电工程力学性能试验场地建设施工招标采购项目（招标编号：411961）", "source": "identifier"}
+{"query_id": "zhm_000426", "query": "查找包含编号“邮 编：010098”的中文文档页面。", "page_id": "COLD_CELL_600/653", "evidence": "邮 编：010098", "source": "identifier"}
+{"query_id": "zhm_000427", "query": "查找包含文本“2.项目地点：新罗区社兴居委会边”的中文文档页面。", "page_id": "COLD_CELL_600/654", "evidence": "2.项目地点：新罗区社兴居委会边", "source": "text"}
+{"query_id": "zhm_000428", "query": "查找包含日期“2017年7月1日”的中文文档页面。", "page_id": "COLD_CELL_600/655", "evidence": "东莞市南开实验学校2017年7月1日一2020年6月30日共3年直饮水系统运营维护", "source": "date"}
+{"query_id": "zhm_000429", "query": "查找包含编号“招标编号：YCJSQ2018-0048”的中文文档页面。", "page_id": "COLD_CELL_600/656", "evidence": "招标编号：YCJSQ2018-0048", "source": "identifier"}
+{"query_id": "zhm_000430", "query": "查找包含联系电话“13934886353”的中文文档页面。", "page_id": "COLD_CELL_600/659", "evidence": "广河县水务局 13934886353", "source": "phone"}
+{"query_id": "zhm_000431", "query": "查找包含文本“（备注：招标人发布公告时需提供纸质询价公告原件五份，否则中心不予办理相关业务。此备案表一式二份）”的中文文档页面。", "page_id": "COLD_CELL_600/668", "evidence": "（备注：招标人发布公告时需提供纸质询价公告原件五份，否则中心不予办理相关业务。此备案表一式二份）", "source": "text"}
+{"query_id": "zhm_000432", "query": "查找标题或抬头包含“招标编号：SDTM【2018】第001号”的中文文档页面。", "page_id": "COLD_CELL_600/670", "evidence": "招标编号：SDTM【2018】第001号", "source": "title"}
+{"query_id": "zhm_000433", "query": "查找标题或抬头包含“魏桥纺织股份有限公司编织袋招标公告”的中文文档页面。", "page_id": "COLD_CELL_600/671", "evidence": "魏桥纺织股份有限公司编织袋招标公告", "source": "title"}
+{"query_id": "zhm_000434", "query": "查找包含日期“2012年2月23日”的中文文档页面。", "page_id": "COLD_CELL_600/672", "evidence": "9、其他：本项目开标时间为2012年2月23日8时3分", "source": "date"}
+{"query_id": "zhm_000435", "query": "查找包含联系电话“13100802545”的中文文档页面。", "page_id": "COLD_CELL_600/675", "evidence": "台州市黄岩区建工司 1310080254526", "source": "phone"}
+{"query_id": "zhm_000436", "query": "查找包含编号“电子邮件：280890133@qq.com”的中文文档页面。", "page_id": "COLD_CELL_600/676", "evidence": "电子邮件：280890133@qq.com", "source": "identifier"}
+{"query_id": "zhm_000437", "query": "查找包含日期“2019年12月4日”的中文文档页面。", "page_id": "COLD_CELL_600/678", "evidence": "申报时间：2019年12月4日", "source": "date"}
+{"query_id": "zhm_000438", "query": "查找包含联系电话“0854-2761752”的中文文档页面。", "page_id": "COLD_CELL_600/682", "evidence": "电话：0854-2761752", "source": "phone"}
+{"query_id": "zhm_000439", "query": "查找包含联系电话“0610157991”的中文文档页面。", "page_id": "COLD_CELL_600/688", "evidence": "建经四湾咨询有限公司 3310610157991", "source": "phone"}
+{"query_id": "zhm_000440", "query": "查找包含联系电话“13860791617”的中文文档页面。", "page_id": "COLD_CELL_600/689", "evidence": "8.联系人：陈先生13860791617", "source": "phone"}
+{"query_id": "zhm_000441", "query": "查找标题或抬头包含“申报单位：生物医学工程研究中心”的中文文档页面。", "page_id": "COLD_CELL_600/691", "evidence": "申报单位：生物医学工程研究中心", "source": "title"}
+{"query_id": "zhm_000442", "query": "查找包含编号“项目编号：NMDL-2018-028”的中文文档页面。", "page_id": "COLD_CELL_600/692", "evidence": "项目编号：NMDL-2018-028", "source": "identifier"}
+{"query_id": "zhm_000443", "query": "查找包含日期“2017年07月26日”的中文文档页面。", "page_id": "COLD_CELL_600/693", "evidence": "2、定标日期：2017年07月26日", "source": "date"}
+{"query_id": "zhm_000444", "query": "查找包含联系电话“04230003197”的中文文档页面。", "page_id": "COLD_CELL_600/697", "evidence": "衡山县城市和农村建设投资有限公司 4304230003197", "source": "phone"}
+{"query_id": "zhm_000445", "query": "查找包含联系电话“18021870008”的中文文档页面。", "page_id": "COLD_CELL_600/698", "evidence": "联系人：姜18021870008", "source": "phone"}
+{"query_id": "zhm_000446", "query": "查找包含编号“联系电话：3582211”的中文文档页面。", "page_id": "COLD_CELL_600/699", "evidence": "联系电话：3582211", "source": "identifier"}
+{"query_id": "zhm_000447", "query": "查找包含联系电话“13901424205”的中文文档页面。", "page_id": "COLD_CELL_600/700", "evidence": "联系电话：13901424205 80213658", "source": "phone"}
+{"query_id": "zhm_000448", "query": "查找标题或抬头包含“兴化市建设工程公开招标公告”的中文文档页面。", "page_id": "COLD_CELL_600/702", "evidence": "兴化市建设工程公开招标公告", "source": "title"}
+{"query_id": "zhm_000449", "query": "查找包含编号“2项目编号：GZPYTR19003”的中文文档页面。", "page_id": "COLD_CELL_600/703", "evidence": "2项目编号：GZPYTR19003", "source": "identifier"}
+{"query_id": "zhm_000450", "query": "查找包含联系电话“13053488030”的中文文档页面。", "page_id": "COLD_CELL_600/706", "evidence": "清河县城市管理综合行政执法局 1305348803025", "source": "phone"}
+{"query_id": "zhm_000451", "query": "查找包含日期“2016年10月18日”的中文文档页面。", "page_id": "COLD_CELL_600/711", "evidence": "2016年10月18日上午8时到10月24日下午17时止", "source": "date"}
+{"query_id": "zhm_000452", "query": "查找包含编号“D9070044676”的中文文档页面。", "page_id": "COLD_CELL_600/712", "evidence": "南农村公路管理所 D9070044676", "source": "identifier"}
+{"query_id": "zhm_000453", "query": "查找包含文本“④融创维多利亚湾 5315.9636”的中文文档页面。", "page_id": "COLD_CELL_600/745", "evidence": "④融创维多利亚湾 5315.9636", "source": "text"}
+{"query_id": "zhm_000454", "query": "查找包含编号“学生编号：2015002”的中文文档页面。", "page_id": "COLD_CELL_600/750", "evidence": "学生编号：2015002", "source": "identifier"}
+{"query_id": "zhm_000455", "query": "查找包含日期“2019-12-29”的中文文档页面。", "page_id": "COLD_CELL_600/756", "evidence": "日期：2019-12-29", "source": "date"}
+{"query_id": "zhm_000456", "query": "查找包含日期“2013-01-27”的中文文档页面。", "page_id": "COLD_CELL_600/761", "evidence": "日期：2013-01-2723:36:14", "source": "date"}
+{"query_id": "zhm_000457", "query": "查找包含日期“9120-35-19”的中文文档页面。", "page_id": "COLD_CELL_600/8", "evidence": "报告编号：2019120-35-1965299001", "source": "date"}
+{"query_id": "zhm_000458", "query": "查找包含编号“NGTM1930”的中文文档页面。", "page_id": "COLD_CELL_600/802", "evidence": "机时NGTM1930", "source": "identifier"}
+{"query_id": "zhm_000459", "query": "查找包含文本“4本表内收费项目实行市场调节价，经营者有权调整收费项目和收费标准，在调整的同时报送口岸主管部门”的中文文档页面。", "page_id": "COLD_CELL_600/931", "evidence": "4本表内收费项目实行市场调节价，经营者有权调整收费项目和收费标准，在调整的同时报送口岸主管部门", "source": "text"}
+{"query_id": "zhm_000460", "query": "查找标题或抬头包含“衢州市市级单位公务用车租赁结算单”的中文文档页面。", "page_id": "COLD_CELL_600/936", "evidence": "衢州市市级单位公务用车租赁结算单", "source": "title"}
+{"query_id": "zhm_000461", "query": "查找包含日期“2011年03月25日”的中文文档页面。", "page_id": "COLD_CELL_600/945", "evidence": "送货日期：2011年03月25日", "source": "date"}
+{"query_id": "zhm_000462", "query": "查找包含编号“1，液压系统用油：夏季用N68号抗磨液压油；冬季用N32-N46号抗磨液压油”的中文文档页面。", "page_id": "COLD_CELL_600/950", "evidence": "1，液压系统用油：夏季用N68号抗磨液压油；冬季用N32-N46号抗磨液压油", "source": "identifier"}
+{"query_id": "zhm_000463", "query": "查找标题或抬头包含“第一联：采购单位留存第二联：租赁企业留存）”的中文文档页面。", "page_id": "COLD_CELL_600/955", "evidence": "第一联：采购单位留存第二联：租赁企业留存）", "source": "title"}
+{"query_id": "zhm_000464", "query": "查找包含编号“CJ128-2007”的中文文档页面。", "page_id": "COLD_CELL_600/965", "evidence": "CJ128-2007《热量表》", "source": "identifier"}
+{"query_id": "zhm_000465", "query": "查找包含日期“2020-07-20”的中文文档页面。", "page_id": "COLD_CELL_600/966", "evidence": "结算日期：2020-07-20", "source": "date"}
+{"query_id": "zhm_000466", "query": "查找标题或抬头包含“班级四（4）姓名 组别 实验时间 年 月”的中文文档页面。", "page_id": "COLD_CELL_600/990", "evidence": "班级四（4）姓名 组别 实验时间 年 月", "source": "title"}
+{"query_id": "zhm_000467", "query": "查找标题或抬头包含“庐江县中小学学生实验报告单”的中文文档页面。", "page_id": "COLD_CELL_600/994", "evidence": "庐江县中小学学生实验报告单", "source": "title"}
+{"query_id": "zhm_000468", "query": "查找标题或抬头包含“2019年全国普通高中高三二月大联考”的中文文档页面。", "page_id": "EPHOIE_SCUT_311/img_1472", "evidence": "2019年全国普通高中高三二月大联考", "source": "title"}
+{"query_id": "zhm_000469", "query": "查找包含编号“电子邮件：597494564@qq.com”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_0", "evidence": "电子邮件：597494564@qq.com", "source": "identifier"}
+{"query_id": "zhm_000470", "query": "查找标题或抬头包含“绩效目标申报表(一级项目)”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_1", "evidence": "绩效目标申报表(一级项目)", "source": "title"}
+{"query_id": "zhm_000471", "query": "查找包含日期“2010年1月31日”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_12", "evidence": "有效期至：2010年1月31日止", "source": "date"}
+{"query_id": "zhm_000472", "query": "查找标题或抬头包含“本表适用于有限责任公司、股份有限责任公司”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_13", "evidence": "本表适用于有限责任公司、股份有限责任公司", "source": "title"}
+{"query_id": "zhm_000473", "query": "查找标题或抬头包含“注：本表一式两份，验证后两份交登记处备案（并附身份证复印件一份）”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_14", "evidence": "注：本表一式两份，验证后两份交登记处备案（并附身份证复印件一份）", "source": "title"}
+{"query_id": "zhm_000474", "query": "查找包含日期“2020年8月22日”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_15", "evidence": "推荐日期 2020年8月22日", "source": "date"}
+{"query_id": "zhm_000475", "query": "查找标题或抬头包含“退伍、复员、转业军人登记表”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_17", "evidence": "退伍、复员、转业军人登记表", "source": "title"}
+{"query_id": "zhm_000476", "query": "查找标题或抬头包含“专业调解员培训证书课程报名表”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_18", "evidence": "专业调解员培训证书课程报名表", "source": "title"}
+{"query_id": "zhm_000477", "query": "查找标题或抬头包含“护照遗失、被盗抢、损毁登记表”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_19", "evidence": "护照遗失、被盗抢、损毁登记表", "source": "title"}
+{"query_id": "zhm_000478", "query": "查找标题或抬头包含“我国海洋开采石油（天然气）项目及其进口物资确认表”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_2", "evidence": "我国海洋开采石油（天然气）项目及其进口物资确认表", "source": "title"}
+{"query_id": "zhm_000479", "query": "查找包含编号“1995Y3M9D”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_20", "evidence": "Nationality法国 Date ofbirth 1995Y3M9D", "source": "identifier"}
+{"query_id": "zhm_000480", "query": "查找标题或抬头包含“出境定居离退休、退职人员健在确认表编号（使领馆人员编序)”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_21", "evidence": "出境定居离退休、退职人员健在确认表编号（使领馆人员编序)", "source": "title"}
+{"query_id": "zhm_000481", "query": "查找包含日期“2016.9.26”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_22", "evidence": "更新日期：2016.9.26", "source": "date"}
+{"query_id": "zhm_000482", "query": "查找标题或抬头包含“我国陆上特定地区开采石油 (天然气)”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_23", "evidence": "我国陆上特定地区开采石油 (天然气)", "source": "title"}
+{"query_id": "zhm_000483", "query": "查找包含联系电话“0551-65600299”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_24", "evidence": "电话：0551-65600299", "source": "phone"}
+{"query_id": "zhm_000484", "query": "查找标题或抬头包含“填写前，请先阅读背面的须知事项”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_25", "evidence": "填写前，请先阅读背面的须知事项", "source": "title"}
+{"query_id": "zhm_000485", "query": "查找包含联系电话“14678951262”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_26", "evidence": "主卡持卡人信用卡号码：3521467895126215", "source": "phone"}
+{"query_id": "zhm_000486", "query": "查找标题或抬头包含“道路运输从业人员从业资格证件换发、补发、变更登记表”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_27", "evidence": "道路运输从业人员从业资格证件换发、补发、变更登记表", "source": "title"}
+{"query_id": "zhm_000487", "query": "查找包含日期“2020年5月2日”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_28", "evidence": "中请日期：2020年5月2日", "source": "date"}
+{"query_id": "zhm_000488", "query": "查找标题或抬头包含“申报户口登记表（毕业生、人才等创业就业落户）”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_29", "evidence": "申报户口登记表（毕业生、人才等创业就业落户）", "source": "title"}
+{"query_id": "zhm_000489", "query": "查找包含日期“2018年5月6日”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_3", "evidence": "登记日期：2018年5月6日", "source": "date"}
+{"query_id": "zhm_000490", "query": "查找包含编号“市、镇、村： 县： 邮编：214026”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_30", "evidence": "市、镇、村： 县： 邮编：214026", "source": "identifier"}
+{"query_id": "zhm_000491", "query": "查找包含编号“实体院系：华东师范大学系别： 数学系专业： 数学学号：1869582”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_32", "evidence": "实体院系：华东师范大学系别： 数学系专业： 数学学号：1869582", "source": "identifier"}
+{"query_id": "zhm_000492", "query": "查找包含联系电话“15234345414”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_33", "evidence": "档案来源：户籍口社保档案号：152343454145诊疗卡号：EM43544846/7", "source": "phone"}
+{"query_id": "zhm_000493", "query": "查找标题或抬头包含“★申请人须如实、完整、清楚地填写本表格或在口内打√选择”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_34", "evidence": "★申请人须如实、完整、清楚地填写本表格或在口内打√选择", "source": "title"}
+{"query_id": "zhm_000494", "query": "查找标题或抬头包含“2020 年少数民族高层次骨干人才计划考生登记表”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_35", "evidence": "2020 年少数民族高层次骨干人才计划考生登记表", "source": "title"}
+{"query_id": "zhm_000495", "query": "查找标题或抬头包含“原产地证书申请单位基本信息备案”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_36", "evidence": "原产地证书申请单位基本信息备案", "source": "title"}
+{"query_id": "zhm_000496", "query": "查找包含联系电话“045125455646”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_38", "evidence": "编号：04512545564684", "source": "phone"}
+{"query_id": "zhm_000497", "query": "查找包含编号“A01014”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_39", "evidence": "A01014《扣缴义务人登记表》", "source": "identifier"}
+{"query_id": "zhm_000498", "query": "查找标题或抬头包含“表2境内直接投资基本信息登记业务申请表（二）”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_40", "evidence": "表2境内直接投资基本信息登记业务申请表（二）", "source": "title"}
+{"query_id": "zhm_000499", "query": "查找包含日期“1990年7月27日”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_41", "evidence": "●申请人姓名：薛鹏程(男，女）／1990年7月27日生(满29岁)", "source": "date"}
+{"query_id": "zhm_000500", "query": "查找包含编号“公司传真：2695498”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_44", "evidence": "公司传真：2695498", "source": "identifier"}
+{"query_id": "zhm_000501", "query": "查找标题或抬头包含“2018 年栖霞市卫计系统不参加统一笔试类E岗位考生报名登记表”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_45", "evidence": "2018 年栖霞市卫计系统不参加统一笔试类E岗位考生报名登记表", "source": "title"}
+{"query_id": "zhm_000502", "query": "查找包含文本“2.报考经教育部批准的单独招收残疾考生高校的残疾考生，也须填写残疾证号，否则影响报考”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_48", "evidence": "2.报考经教育部批准的单独招收残疾考生高校的残疾考生，也须填写残疾证号，否则影响报考", "source": "text"}
+{"query_id": "zhm_000503", "query": "查找标题或抬头包含“2020年成都市公开招聘聘任制公务员报名登记表”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_5", "evidence": "2020年成都市公开招聘聘任制公务员报名登记表", "source": "title"}
+{"query_id": "zhm_000504", "query": "查找标题或抬头包含“2018年苏州高新区事业单位高层次人才公开招聘报名登记表（G01）”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_7", "evidence": "2018年苏州高新区事业单位高层次人才公开招聘报名登记表（G01）", "source": "title"}
+{"query_id": "zhm_000505", "query": "查找包含日期“2019年5月8日”的中文文档页面。", "page_id": "XFUND-zh-val/zh_val_8", "evidence": "日期：2019年5月8日", "source": "date"}

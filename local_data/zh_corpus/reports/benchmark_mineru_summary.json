@@ -1,0 +1,44 @@
+{
+  "source": "MinerU flash markdown",
+  "filters": {
+    "min_evidence_chars": 8,
+    "max_evidence_chars": 60,
+    "clean_text_max_chars": 4000,
+    "min_score": 6.0,
+    "duplicate_query_policy": "drop duplicate query strings before selecting one query per page"
+  },
+  "counts": {
+    "mineru_pages_with_text": 611,
+    "candidates_before_duplicate_filter": 2192,
+    "unique_query_candidates": 1671,
+    "selected_queries": 506,
+    "pages_without_query": 105
+  },
+  "candidate_by_dataset": {
+    "COLD_CELL_600": 1513,
+    "EPHOIE_SCUT_311": 4,
+    "XFUND-zh-val": 154
+  },
+  "selected_by_dataset": {
+    "COLD_CELL_600": 468,
+    "EPHOIE_SCUT_311": 1,
+    "XFUND-zh-val": 37
+  },
+  "selected_by_source": {
+    "identifier": 159,
+    "phone": 65,
+    "money": 12,
+    "date": 119,
+    "title": 137,
+    "text": 14
+  },
+  "outputs": {
+    "mineru_page_texts": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark_mineru/mineru_page_texts.jsonl",
+    "query_candidates": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark_mineru/query_candidates.jsonl",
+    "selected_queries": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark_mineru/selected_queries.jsonl",
+    "qrels": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark_mineru/qrels.json",
+    "queries": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark_mineru/queries.jsonl",
+    "corpus": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark_mineru/corpus.jsonl",
+    "vidore_compat_test": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark_mineru/vidore_compat_test.jsonl"
+  }
+}

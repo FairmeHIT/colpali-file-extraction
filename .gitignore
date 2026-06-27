@@ -1,0 +1,46 @@
+# Virtual environments
+.venv/
+.venv-vidore/
+.venv-colqwen2/
+.venv312/
+.uv-cache/
+
+# IDE / Editor
+.agents/
+.codex/
+.vscode/
+.idea/
+
+# HuggingFace cache
+hf-cache/
+
+# Upstream repos (cloned for reference, not part of this project)
+colpali/
+vidore-benchmark/
+colpali-repro/
+
+# Raw image data (large, available from original sources)
+local_data/zh_corpus/raw/
+local_data/zh_corpus/processed/
+local_data/zh_corpus/mineru/
+
+# Certificate images (large binary files, 1000+ images)
+local_data/zh_cert_benchmark/*
+# But keep benchmark results and README
+!local_data/zh_cert_benchmark/benchmark_runs/
+!local_data/zh_cert_benchmark/benchmark_runs/**
+!local_data/zh_cert_benchmark/README.md
+
+# External doc benchmarks (large downloads)
+local_data/zh_doc_benchmark/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,126 @@
+{
+  "seed": 42,
+  "n_per_class": 3,
+  "n_others": 30,
+  "classes": [
+    "CESSCN_design_inte",
+    "CESSCN_emergency_resp",
+    "CESSCN_risk_eval",
+    "CESSCN_safety_train",
+    "ID",
+    "ISO14000",
+    "ISO45001",
+    "ISO9000",
+    "SA8000",
+    "academicCertificate",
+    "businessLicense",
+    "degreeCertificate",
+    "legalLicense"
+  ],
+  "counts": {
+    "rows": 69,
+    "queries": 13,
+    "positive_images": 39,
+    "others": 30
+  },
+  "selected": {
+    "CESSCN_design_inte": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_design_inte/CESSCN_design_inte_107.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_design_inte/34556084-2a9c-4c89-89df-b312e9526a04.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_design_inte/CESSCN_design_inte_30.png"
+    ],
+    "CESSCN_emergency_resp": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_emergency_resp/CESSCN_emergency_resp_26.jpg",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_emergency_resp/CESSCN_emergency_resp_2.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_emergency_resp/CESSCN_emergency_resp_122.png"
+    ],
+    "CESSCN_risk_eval": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_risk_eval/312339c3-e064-4ad5-acc9-c8d4db8ae901.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_risk_eval/b43007bc-3113-4213-b39d-feeac031b19d.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_risk_eval/2767cdc9-029b-49a5-b871-6367188dc894.png"
+    ],
+    "CESSCN_safety_train": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_safety_train/CESSCN_safety_train_63.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_safety_train/CESSCN_safety_train_10.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/CESSCN_safety_train/81eff83a-564e-475b-81ff-f01e5abda18d.png"
+    ],
+    "ID": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ID/01f250c5-f470-4b23-bbbd-14971fb59762.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ID/0b7f0945-3368-424a-a06f-fb8f959ba58b.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ID/0b901f2e-7fbd-4e32-bf4f-22f4a4fd07f0.png"
+    ],
+    "ISO14000": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ISO14000/dea7d41c-cae3-4d24-b4d8-ecfbaa3212cd.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ISO14000/069f1394-4386-4057-aaec-95dcf404f02b.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ISO14000/563d21be-2a47-41ef-b354-3d4155d9edab.png"
+    ],
+    "ISO45001": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ISO45001/d17c060a-2353-4375-9e81-60b7f0b3ac5a.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ISO45001/93c7a195-42b5-4207-8cb0-c85efd24339e.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ISO45001/3afc30a8-c456-4e6a-b789-e7089f56f152.png"
+    ],
+    "ISO9000": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ISO9000/6eddc7a8-c4e7-4cba-a2f0-abd687f6af29.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ISO9000/35c13904-43a9-47ca-9ea6-e72a2e31d56c.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ISO9000/021b4444-1996-437c-8e2f-0b7af6fba3d6.png"
+    ],
+    "SA8000": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/SA8000/SA8000_128.jpg",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/SA8000/SA8000_70.jpg",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/SA8000/SA8000_51.png"
+    ],
+    "academicCertificate": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/academicCertificate/0c43e15d-039b-4a79-8bae-dea7812c0c50.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/academicCertificate/0aacc21b-2887-4a4c-bcb5-d16b458dafd4.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/academicCertificate/0b5cec01-79b8-4280-8056-3b70cc23bbc1.png"
+    ],
+    "businessLicense": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/businessLicense/0a678788-bddb-4f5d-861c-16714bab8341.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/businessLicense/00cd8ff4-0945-4d24-bc32-7be6da753656.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/businessLicense/00c45f98-2dd5-446c-b7fc-870429509504.png"
+    ],
+    "degreeCertificate": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/degreeCertificate/d7c5c3a9-ce37-4f79-9743-4d333cbcefb0.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/degreeCertificate/295be1e2-dfe3-4d1e-9c89-e326805d2f45.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/degreeCertificate/b1cf03dc-4ff2-4e9c-a8fd-d63fa8437da0.png"
+    ],
+    "legalLicense": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/legalLicense/ce641c9e-1916-4a63-a887-c61fb02d7a58.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/legalLicense/legalLicense_7.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/legalLicense/894937c7-75b5-4f6c-b6fb-58ac6e4b9e53.png"
+    ],
+    "others": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/10027f6ff490de17941f9ee07a825726b77d7d439a84826c8dd74041.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/bcf99143e5b923de68c48e323728ad3a12c2b0a83dba8976d8960316.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/dfcf61ea0cb7ff6e1ab25c4c562b90e66532d32354373226d3f17ee3.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/301962a355fed66e8ad37b3da0d435f80ad6d6e487adb10a830459f0.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/9d6ad3a64b54b8e7906b9e91db2286616cc7311828303db88e742b80.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/2075f1e990c14db87acc09db30c8884b3f6d112c69a8066edc3e619a.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/ea217cb6fdc05f95d510fe9c1c9646dd5eab4ea555b757d4c50c6273.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/78ac85d7d91e2bbda849fcbf0fe01aae5458751c588cff7e57c9aff9.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/9a5b2858b1c248c4371a7f1323c15a6ef4da5a8e04d1bed3bc3807ed.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/52d7f3ab5d7e90de2f79973c94f92339d068edb1267ecade93b697b5.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/1a21f3db319f250000b75822d4a70871869571037747a7919080daa4.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/fd4e13752563870c85c25a73ad215f66816979e606c94343503c1eb6.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/654f3f28a41e99743252a2bd9bdd857ca4e51d1790e63c3fc891b165.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/7728e063e535fcbe95a9543c825d594d435f143d613473b9b1b7398b.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/f782d0debe1ff7975920c78e57d95d01957adde2cb013808cfbecf01.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/662644981d879db67307bb1ae4abe2d7934637d3035097cb9afa3bf6.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/282ba93b55364d424ba5bf44a1e6a77719bd4141cbec71dd9e4a8fe5.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/9e1667ff580c4caa8996eb75965b7df1fbadaf135971fe5813df3d29.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/76f4381bb0cd9e4e21b025a8e6e92b489908c885846881c9c1389faa.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/b9632c93184229b19a28e3298a18b08ff3838d01cabe87ff0a0941b1.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/9b92231e19c16407ef8e56818b600377d24d449fd311860c9b193f69.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/411b2e39261109d25e731c5597c1a411dc2c25ed505e6230f3137299.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/9d2565d9b654eb3bea8ce5ea2d414202cdf1b503c4a55c3946a8e2d3.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/94bc341de73b7ba41be8d90b8d39a13776a8f02add5ad90b717fd6a4.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/5bf0f79e0b1109e3537d774d968d26b56584eb54c1769fc73eafde6d.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/723b6f9a70d934150f5fa13e38c37fe5562b23cd63472d3b0c020c6d.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/946f38a982af6eced3f7493e5c1ae0e662e9024ed30cafe77ddeb11f.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/bdfd2c335df9186d04f13e136f470d8c374f82100a7d24fed0843ca9.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/8c47f664ea28ef9156dcccc9777d4973e6d923a338f07fc3c3d1a0bd.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/87a0ac40ede0c840274a523a923e7cfa51d2134ca5e5ec31920e2b82.png"
+    ]
+  },
+  "dataset_path": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/benchmark_runs/seed_42_n_3_others_30/vidore_compat_test.jsonl"
+}

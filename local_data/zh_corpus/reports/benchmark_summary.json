@@ -1,0 +1,235 @@
+{
+  "filters": {
+    "min_value_length": 10,
+    "max_query_value_chars": 64,
+    "duplicate_query_policy": "drop duplicate query strings before selecting one query per page"
+  },
+  "counts": {
+    "pages": 961,
+    "raw_fields": 11172,
+    "candidates_before_duplicate_filter": 3953,
+    "unique_query_candidates": 3616,
+    "selected_queries": 612,
+    "pages_without_query": 349
+  },
+  "candidate_by_dataset": {
+    "COLD_CELL_600": 3300,
+    "EPHOIE_SCUT_311": 1,
+    "XFUND-zh-val": 315
+  },
+  "selected_by_dataset": {
+    "COLD_CELL_600": 562,
+    "EPHOIE_SCUT_311": 1,
+    "XFUND-zh-val": 49
+  },
+  "top_candidate_fields": [
+    {
+      "field_name": "标题",
+      "count": 286
+    },
+    {
+      "field_name": "日期",
+      "count": 94
+    },
+    {
+      "field_name": "菜品详单",
+      "count": 94
+    },
+    {
+      "field_name": "商品详单",
+      "count": 81
+    },
+    {
+      "field_name": "编号",
+      "count": 75
+    },
+    {
+      "field_name": "行政处罚依据",
+      "count": 64
+    },
+    {
+      "field_name": "公司名",
+      "count": 61
+    },
+    {
+      "field_name": "案件名称",
+      "count": 54
+    },
+    {
+      "field_name": "违法事实",
+      "count": 54
+    },
+    {
+      "field_name": "行政处罚内容",
+      "count": 47
+    },
+    {
+      "field_name": "单号",
+      "count": 46
+    },
+    {
+      "field_name": "地址",
+      "count": 44
+    },
+    {
+      "field_name": "作出行政处罚决定日期",
+      "count": 43
+    },
+    {
+      "field_name": "备注",
+      "count": 40
+    },
+    {
+      "field_name": "时间",
+      "count": 40
+    },
+    {
+      "field_name": "行政处罚决定书文号",
+      "count": 40
+    },
+    {
+      "field_name": "行政处罚当事人基本情况.社会信用代码或组织机构代码",
+      "count": 38
+    },
+    {
+      "field_name": "电话",
+      "count": 29
+    },
+    {
+      "field_name": "报告编号",
+      "count": 29
+    },
+    {
+      "field_name": "联系电话",
+      "count": 27
+    },
+    {
+      "field_name": "检验依据",
+      "count": 26
+    },
+    {
+      "field_name": "行政处罚当事人基本情况.违法单位名称或违法自然人姓名",
+      "count": 26
+    },
+    {
+      "field_name": "注",
+      "count": 24
+    },
+    {
+      "field_name": "No.",
+      "count": 22
+    },
+    {
+      "field_name": "签发日期",
+      "count": 20
+    },
+    {
+      "field_name": "开始时间",
+      "count": 16
+    },
+    {
+      "field_name": "打印时间",
+      "count": 15
+    },
+    {
+      "field_name": "生产单位名称地址",
+      "count": 15
+    },
+    {
+      "field_name": "作出行政处罚决定机关名称",
+      "count": 15
+    },
+    {
+      "field_name": "结束时间",
+      "count": 14
+    },
+    {
+      "field_name": "生产单位",
+      "count": 14
+    },
+    {
+      "field_name": "入库单号",
+      "count": 14
+    },
+    {
+      "field_name": "入库日期",
+      "count": 14
+    },
+    {
+      "field_name": "项目名称",
+      "count": 13
+    },
+    {
+      "field_name": "有效期至",
+      "count": 13
+    },
+    {
+      "field_name": "单据编号",
+      "count": 13
+    },
+    {
+      "field_name": "委托单位",
+      "count": 13
+    },
+    {
+      "field_name": "检验结论",
+      "count": 13
+    },
+    {
+      "field_name": "目的地",
+      "count": 13
+    },
+    {
+      "field_name": "单据日期",
+      "count": 13
+    },
+    {
+      "field_name": "身份证号",
+      "count": 12
+    },
+    {
+      "field_name": "开台时间",
+      "count": 12
+    },
+    {
+      "field_name": "结账时间",
+      "count": 12
+    },
+    {
+      "field_name": "货主",
+      "count": 12
+    },
+    {
+      "field_name": "估价项目名称",
+      "count": 12
+    },
+    {
+      "field_name": "备案目的",
+      "count": 12
+    },
+    {
+      "field_name": "网址",
+      "count": 11
+    },
+    {
+      "field_name": "流水号",
+      "count": 11
+    },
+    {
+      "field_name": "土地基本情况.设定开发程度",
+      "count": 11
+    },
+    {
+      "field_name": "土地基本情况.评估结果",
+      "count": 11
+    }
+  ],
+  "outputs": {
+    "query_candidates": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark/query_candidates.jsonl",
+    "selected_queries": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark/selected_queries.jsonl",
+    "qrels": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark/qrels.json",
+    "queries": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark/queries.jsonl",
+    "corpus": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark/corpus.jsonl",
+    "vidore_compat_test": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/benchmark/vidore_compat_test.jsonl"
+  }
+}

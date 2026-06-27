@@ -1,0 +1,228 @@
+{
+  "datasets": {
+    "XFUND-zh-val": {
+      "pages": 50,
+      "fields": 1157
+    },
+    "COLD_CELL_600": {
+      "pages": 600,
+      "fields": 9088
+    },
+    "EPHOIE_SCUT_311": {
+      "pages": 311,
+      "fields": 927
+    }
+  },
+  "totals": {
+    "pages": 961,
+    "fields": 11172
+  },
+  "field_value_lengths": {
+    "min": 1,
+    "median": 6,
+    "max": 3033,
+    "short_le_2": 1832
+  },
+  "top_field_names": [
+    {
+      "field_name": "标题",
+      "count": 527
+    },
+    {
+      "field_name": "姓名",
+      "count": 339
+    },
+    {
+      "field_name": "学校",
+      "count": 175
+    },
+    {
+      "field_name": "班级",
+      "count": 158
+    },
+    {
+      "field_name": "日期",
+      "count": 129
+    },
+    {
+      "field_name": "菜品详单",
+      "count": 94
+    },
+    {
+      "field_name": "科目",
+      "count": 89
+    },
+    {
+      "field_name": "页码",
+      "count": 88
+    },
+    {
+      "field_name": "年级",
+      "count": 83
+    },
+    {
+      "field_name": "商品详单",
+      "count": 81
+    },
+    {
+      "field_name": "编号",
+      "count": 79
+    },
+    {
+      "field_name": "公司名",
+      "count": 77
+    },
+    {
+      "field_name": "行政处罚依据",
+      "count": 64
+    },
+    {
+      "field_name": "人数",
+      "count": 57
+    },
+    {
+      "field_name": "单号",
+      "count": 57
+    },
+    {
+      "field_name": "备注",
+      "count": 56
+    },
+    {
+      "field_name": "案件名称",
+      "count": 54
+    },
+    {
+      "field_name": "行政处罚当事人基本情况.违法单位名称或违法自然人姓名",
+      "count": 54
+    },
+    {
+      "field_name": "违法事实",
+      "count": 54
+    },
+    {
+      "field_name": "地址",
+      "count": 53
+    },
+    {
+      "field_name": "行政处罚内容",
+      "count": 53
+    },
+    {
+      "field_name": "作出行政处罚决定日期",
+      "count": 53
+    },
+    {
+      "field_name": "作出行政处罚决定机关名称",
+      "count": 53
+    },
+    {
+      "field_name": "时间",
+      "count": 50
+    },
+    {
+      "field_name": "行政处罚当事人基本情况.社会信用代码或组织机构代码",
+      "count": 47
+    },
+    {
+      "field_name": "应收",
+      "count": 45
+    },
+    {
+      "field_name": "收银员",
+      "count": 44
+    },
+    {
+      "field_name": "电话",
+      "count": 41
+    },
+    {
+      "field_name": "行政处罚决定书文号",
+      "count": 40
+    },
+    {
+      "field_name": "行政处罚当事人基本情况.法定代表人(负责人)姓名",
+      "count": 38
+    },
+    {
+      "field_name": "考号",
+      "count": 38
+    },
+    {
+      "field_name": "产品名称",
+      "count": 34
+    },
+    {
+      "field_name": "联系电话",
+      "count": 33
+    },
+    {
+      "field_name": "仓库",
+      "count": 33
+    },
+    {
+      "field_name": "报告编号",
+      "count": 32
+    },
+    {
+      "field_name": "分数",
+      "count": 32
+    },
+    {
+      "field_name": "No.",
+      "count": 29
+    },
+    {
+      "field_name": "行政处罚决定书文号(编号)",
+      "count": 28
+    },
+    {
+      "field_name": "性别",
+      "count": 27
+    },
+    {
+      "field_name": "检验依据",
+      "count": 26
+    },
+    {
+      "field_name": "合计.数量",
+      "count": 25
+    },
+    {
+      "field_name": "合计.金额",
+      "count": 24
+    },
+    {
+      "field_name": "注",
+      "count": 24
+    },
+    {
+      "field_name": "学号",
+      "count": 23
+    },
+    {
+      "field_name": "餐桌",
+      "count": 23
+    },
+    {
+      "field_name": "签发日期",
+      "count": 22
+    },
+    {
+      "field_name": "服务员",
+      "count": 22
+    },
+    {
+      "field_name": "合计",
+      "count": 22
+    },
+    {
+      "field_name": "找零",
+      "count": 20
+    },
+    {
+      "field_name": "No",
+      "count": 20
+    }
+  ]
+}

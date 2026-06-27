@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "n_per_class": 1,
+  "n_others": 2,
+  "classes": [
+    "businessLicense",
+    "ID"
+  ],
+  "counts": {
+    "rows": 4,
+    "queries": 2,
+    "positive_images": 2,
+    "others": 2
+  },
+  "selected": {
+    "businessLicense": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/businessLicense/00ce37e4-f100-4ab6-9d46-3a70635dba37.png"
+    ],
+    "ID": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/ID/00c8b1e9-c98c-44e4-8b54-d4170eb68b8b.png"
+    ],
+    "others": [
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/74af80536666b290763919136fa8c02d11a652961dbe29e63b8deee8.png",
+      "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/others/6ba7d1424d85b2b76e4b690e0eddc669ecf340de8952b0b2da57b4db.png"
+    ]
+  },
+  "dataset_path": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_cert_benchmark/benchmark_runs/seed_42_n_1_others_2/vidore_compat_test.jsonl"
+}

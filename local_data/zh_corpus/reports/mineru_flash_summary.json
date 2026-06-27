@@ -1,0 +1,17 @@
+{
+  "mode": "flash",
+  "scope": "selected",
+  "limit": null,
+  "timeout": 300,
+  "ocr": true,
+  "table": true,
+  "model": null,
+  "no_proxy": true,
+  "total_requested": 612,
+  "processed_this_run": 607,
+  "skipped_existing": 5,
+  "failed_this_run": 1,
+  "index_path": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/mineru/flash/index.jsonl",
+  "raw_dir": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/mineru/flash/raw",
+  "markdown_dir": "/mnt/d/codes/33_colpali-reproducibility/local_data/zh_corpus/mineru/flash/markdown"
+}
