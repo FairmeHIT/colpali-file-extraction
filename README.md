@@ -67,6 +67,4 @@ bash run_zh_cert_colqwen2_smoke.sh
 - vidore-benchmark 3.3.0, MTEB 1.12+
 - mineru-open-sdk
 
-## 详细报告
 
-见 [reports/验收报告.md](reports/验收报告.md)
